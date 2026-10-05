@@ -1,0 +1,58 @@
+name: Update news and publish site
+
+on:
+  schedule:
+    - cron: "15 */3 * * *"   # every 3 hours, at 15 minutes past
+  workflow_dispatch:          # lets you run it by hand from the Actions tab
+  push:
+    branches: [main]
+    paths-ignore:
+      - "news.json"
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  update-and-deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install feedparser
+        run: pip install feedparser
+
+      - name: Fetch and categorise news
+        run: python fetch_news.py
+
+      - name: Save updated news.json back to the repository
+        run: |
+          git config user.name "edu-pulse-bot"
+          git config user.email "edu-pulse-bot@users.noreply.github.com"
+          git add news.json
+          git diff --staged --quiet || git commit -m "Update news"
+          git push
+
+      - name: Collect site files
+        run: |
+          mkdir _site
+          cp index.html news.json _site/
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+      - id: deployment
+        uses: actions/deploy-pages@v4
