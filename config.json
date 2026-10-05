@@ -1,0 +1,60 @@
+{
+  "settings": {
+    "max_age_days": 30,
+    "max_items_per_feed": 40,
+    "max_items_total": 2000
+  },
+
+  "india_keywords": [
+    "india", "indian", "iit", "iim", "iisc", "nit", "iiit", "aiims", "ugc", "aicte",
+    "naac", "nirf", "cuet", "jee", "neet", "nta", "cbse", "nep 2020", "delhi", "mumbai",
+    "bengaluru", "bangalore", "chennai", "hyderabad", "kolkata", "pune", "kota", "lok sabha"
+  ],
+
+  "categories": {
+    "Rankings": ["ranking", "rankings", "rank", "nirf", "qs world", "times higher education", "league table", "top universities", "world university"],
+    "Pedagogy": ["pedagog", "teaching", "teacher", "classroom", "curriculum", "learning outcome", "assessment", "active learning", "blended learning", "instruction", "faculty development", "syllabus", "exam reform", "multidisciplinary"],
+    "Mental health": ["mental health", "wellbeing", "well-being", "suicide", "stress", "anxiety", "counselling", "counseling", "burnout", "depression", "student support", "loneliness"],
+    "Programmes": ["programme", "program", "course", "degree", "admission", "intake", "mba", "phd", "undergraduate", "postgraduate", "cuet", "jee", "neet", "entrance exam", "four-year", "major", "minor"],
+    "Pricing & funding": ["fee", "fees", "tuition", "cost", "price", "loan", "scholarship", "funding", "endowment", "budget", "afford", "debt", "financial aid", "fellowship", "grant"],
+    "Innovation & edtech": ["ai", "artificial intelligence", "edtech", "innovation", "technology", "chatgpt", "generative", "digital", "startup", "incubat", "online learning", "mooc", "metaverse", "virtual"],
+    "Policy & regulation": ["ugc", "aicte", "nep", "ministry of education", "regulation", "regulator", "policy", "bill", "accreditation", "naac", "heci", "government", "ordinance", "guidelines", "reform"],
+    "Study abroad": ["study abroad", "international student", "visa", "overseas", "foreign universit", "offshore campus", "transnational", "immigration", "work permit", "student migration"],
+    "Research": ["research", "publication", "journal", "patent", "citation", "scholar", "laborator", "discovery", "anrf"],
+    "Careers & placements": ["placement", "job", "employab", "salary", "internship", "hiring", "recruit", "graduate outcome", "skills gap", "alumni"]
+  },
+
+  "sources": [
+    { "name": "The Hindu: Education", "url": "https://www.thehindu.com/education/feeder/default.rss", "region": "India" },
+    { "name": "Indian Express: Education", "url": "https://indianexpress.com/section/education/feed/", "region": "India" },
+    { "name": "Hindustan Times: Education", "url": "https://www.hindustantimes.com/feeds/rss/education/rssfeed.xml", "region": "India" },
+    { "name": "Times of India: Education", "url": "https://timesofindia.indiatimes.com/rssfeeds/913168846.cms", "region": "India" },
+    { "name": "ET Education", "url": "https://economictimes.indiatimes.com/industry/services/education/rssfeeds/13357270.cms", "region": "India" },
+
+    { "name": "The PIE News", "url": "https://thepienews.com/feed/", "region": "Global" },
+    { "name": "Inside Higher Ed", "url": "https://www.insidehighered.com/rss/news", "region": "Global" },
+
+    { "name": "Times Higher Education", "url": "https://news.google.com/rss/search?q=site:timeshighereducation.com+when:14d&hl=en&gl=US&ceid=US:en", "region": "Global" },
+    { "name": "University World News", "url": "https://news.google.com/rss/search?q=site:universityworldnews.com+when:14d&hl=en&gl=US&ceid=US:en", "region": "Global" },
+    { "name": "Chronicle of Higher Education", "url": "https://news.google.com/rss/search?q=site:chronicle.com+when:14d&hl=en&gl=US&ceid=US:en", "region": "Global" },
+    { "name": "QS (TopUniversities)", "url": "https://news.google.com/rss/search?q=site:topuniversities.com+when:30d&hl=en&gl=US&ceid=US:en", "region": "Global" },
+    { "name": "Careers360", "url": "https://news.google.com/rss/search?q=site:careers360.com+when:7d&hl=en-IN&gl=IN&ceid=IN:en", "region": "India" },
+    { "name": "EdexLive", "url": "https://news.google.com/rss/search?q=site:edexlive.com+when:14d&hl=en-IN&gl=IN&ceid=IN:en", "region": "India" },
+    { "name": "Shiksha", "url": "https://news.google.com/rss/search?q=site:shiksha.com+when:14d&hl=en-IN&gl=IN&ceid=IN:en", "region": "India" },
+
+    { "name": "Topic: Regulators (UGC / AICTE / NAAC)", "url": "https://news.google.com/rss/search?q=UGC+OR+AICTE+OR+NAAC+OR+%22Ministry+of+Education%22+when:7d&hl=en-IN&gl=IN&ceid=IN:en", "region": "India" },
+    { "name": "Topic: NIRF and rankings (India)", "url": "https://news.google.com/rss/search?q=NIRF+OR+%22university+rankings%22+India+when:14d&hl=en-IN&gl=IN&ceid=IN:en", "region": "India" },
+    { "name": "Topic: IIT / IIM / IISc", "url": "https://news.google.com/rss/search?q=IIT+OR+IIM+OR+IISc+when:7d&hl=en-IN&gl=IN&ceid=IN:en", "region": "India" },
+    { "name": "Topic: Foreign campuses in India", "url": "https://news.google.com/rss/search?q=%22foreign+university%22+campus+India+when:30d&hl=en-IN&gl=IN&ceid=IN:en", "region": "India" },
+    { "name": "Topic: Student mental health (India)", "url": "https://news.google.com/rss/search?q=student+%22mental+health%22+India+university+OR+college+when:14d&hl=en-IN&gl=IN&ceid=IN:en", "region": "India" },
+    { "name": "Topic: Fees and education loans (India)", "url": "https://news.google.com/rss/search?q=college+fees+OR+%22education+loan%22+India+when:14d&hl=en-IN&gl=IN&ceid=IN:en", "region": "India" },
+    { "name": "Topic: Entrance exams (CUET / JEE / NEET)", "url": "https://news.google.com/rss/search?q=CUET+OR+JEE+OR+NEET+admissions+when:7d&hl=en-IN&gl=IN&ceid=IN:en", "region": "India" },
+
+    { "name": "Topic: Higher ed rankings (global)", "url": "https://news.google.com/rss/search?q=%22university+rankings%22+OR+%22QS+World+University+Rankings%22+when:14d&hl=en&gl=US&ceid=US:en", "region": "Global" },
+    { "name": "Topic: Tuition and student debt (global)", "url": "https://news.google.com/rss/search?q=university+tuition+fees+OR+%22student+debt%22+when:14d&hl=en&gl=US&ceid=US:en", "region": "Global" },
+    { "name": "Topic: AI in higher education", "url": "https://news.google.com/rss/search?q=%22higher+education%22+AI+OR+%22generative+AI%22+universities+when:14d&hl=en&gl=US&ceid=US:en", "region": "Global" },
+    { "name": "Topic: International students and visas", "url": "https://news.google.com/rss/search?q=%22international+students%22+visa+universities+when:14d&hl=en&gl=US&ceid=US:en", "region": "Global" },
+    { "name": "Topic: Student mental health (global)", "url": "https://news.google.com/rss/search?q=%22student+mental+health%22+university+when:14d&hl=en&gl=US&ceid=US:en", "region": "Global" },
+    { "name": "Topic: Pedagogy and teaching", "url": "https://news.google.com/rss/search?q=pedagogy+OR+%22teaching+and+learning%22+university+when:14d&hl=en&gl=US&ceid=US:en", "region": "Global" }
+  ]
+}
