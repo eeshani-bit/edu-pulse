@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-10T15:26:14.241219+00:00",
+ "updated": "2026-10-10T18:32:01.337881+00:00",
  "categories": [
   "Rankings",
   "Pedagogy",
@@ -14,6 +14,18 @@
   "General"
  ],
  "items": [
+  {
+   "id": "fed3413ee1980d90",
+   "title": "India's Infosys does not expect material impact from US PERM suspension",
+   "url": "https://economictimes.indiatimes.com/tech/information-tech/indias-infosys-does-not-expect-material-impact-from-us-perm-suspension/articleshow/134858725.cms",
+   "source": "ET Education",
+   "region": "India",
+   "published": "2026-10-10T17:57:49+00:00",
+   "summary": "The US government said on Thursday it was suspending some major global tech and IT firms, including Infosys, from the PERM green card program, which allows skilled foreign workers to gain permanent residency in the US through their employment.",
+   "topics": [
+    "Programmes"
+   ]
+  },
   {
    "id": "153e9354d28a14c3",
    "title": "India Mobile Congress 2026 concludes with focus on agricultural AI, 5G automation and last-mile connectivity",
@@ -24395,18 +24407,6 @@
    "summary": "",
    "topics": [
     "Rankings"
-   ]
-  },
-  {
-   "id": "dbf6289dc5ad6583",
-   "title": "Karnataka SSLC Mid-Term Science Most Important Questions 2026-27 PDF",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNS2ZtdjZLbF9Ca0cySWZ6dk55Mmp0eWNQUWtMQzQxdEhHX0pYb0dWc25vNDRYMms4QjdMY19vd2Z1aXg4ZXF5dnl2UnRvbG9kZVBlSWgxajlSUWdWS3Q2MHZlY1c5M2tneTNnOWIxeVBvNUZTZTMwUXZ2LUtLeE5EZGdlVlJNdlpYUTdlcVNGSFo3MnVqemRvY19GcVNELUtpdmtKZzdpWmhHaGRjNjZUcktuXzI?oc=5",
-   "source": "Careers360",
-   "region": "India",
-   "published": "2026-09-23T07:00:53+00:00",
-   "summary": "",
-   "topics": [
-    "General"
    ]
   }
  ]
