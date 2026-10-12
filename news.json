@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-12T18:33:25.780414+00:00",
+ "updated": "2026-10-12T21:27:56.300975+00:00",
  "categories": [
   "Rankings",
   "Pedagogy",
@@ -20,10 +20,121 @@
    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONURudXQzUEl5YUVtNnBUUHo5bDFyc3o5R1poZDg3bEFpbE1jVlFCSlZXTzNrZnF1bEYxa2xUM3RQbmRmWVMweHl5bldSVWxMNjVhaExpRGtITFByaXRwMG1Qb1oyNWs0RlpnWU45YWotN0w3ZGI2MGl6R0pHMExhZThuTVFGY3dYTEdOS2NxUTJBOVVCZW1Rbjg1ajJPTGtBN3dUXzVLQUFXaHk3QW03cTJmTFg5TFlDRVgyZVpyeUZzODRDZHJtQUxzbURfZw?oc=5",
    "source": "Shiksha.com",
    "region": "India",
-   "published": "2026-10-12T18:22:05+00:00",
+   "published": "2026-10-12T21:02:28+00:00",
    "summary": "",
    "topics": [
     "General"
+   ]
+  },
+  {
+   "id": "57e8659dd00b4794",
+   "title": "- Top Universities",
+   "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxNTnZoaEE0SVl0OTdUMzdzVXp2SGM3RmdMSFJfNjM5OTNPQjdHaTZXTVgwUHY0cEZfMnNtdFJ1WHg2RnRTWFppZURfVnRXcVRJZkNrVXRaRlpUUGpXOW51b1B3aXRYNUhEeUxnaVdFSHRNQWNzVWVuaDJrUGR0b0oyQUhPMkg3SW5PbWYtbEpJdy1RRU9rSjBYMG9sTTJ4RXloeEZ4ank4YVROT0NQSGtxTXNJVGZtUExiQkFzR1BRemNfQ3g4X0lzMXdlNkExYXowQXBPN3FMUFF2UFZkUWZKaE9KcGFaMmRrTUNjMFJ2Zy1fM19wSTZxR2JWalNOUnRNeU4zR0JwZ2Y1SWt1TXB4eEFNckN1a25WZTJpTHA1WVF6SVJma082aHNjRDRHbkVLQ3VFYkl0LVhSLXRDRFE?oc=5",
+   "source": "Top Universities",
+   "region": "Global",
+   "published": "2026-10-12T19:32:38+00:00",
+   "summary": "",
+   "topics": [
+    "Rankings"
+   ]
+  },
+  {
+   "id": "10a47f5271a9ea69",
+   "title": "Trump administration plans to move AI testing agency officials to White House: The Information",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/trump-administration-plans-to-move-ai-testing-agency-officials-to-white-house-the-information/articleshow/134901531.cms",
+   "source": "ET Education",
+   "region": "India",
+   "published": "2026-10-12T18:59:49+00:00",
+   "summary": "The Trump administration is planning to move three senior officials of the Center for Advancing Innovation and Standards for Super Intelligence to the White House, The Information reported on Monday, citing a White House official.",
+   "topics": [
+    "Innovation & edtech"
+   ]
+  },
+  {
+   "id": "cd4fc236475255ab",
+   "title": "IUB brings in Italian academic veteran with two decades of global experience to lift teaching quality",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBMbEZtWTllSGpwbXFYTmxqbktjbEw1YlFlSnlwampNeHduV3F6Z010S3QwSVhpdDVGakdCZzJRbEF2eklXZ1Q5WlNhM1dvbEU?oc=5",
+   "source": "bdnews24.com",
+   "region": "Global",
+   "published": "2026-10-12T18:50:00+00:00",
+   "summary": "",
+   "topics": [
+    "Pedagogy"
+   ]
+  },
+  {
+   "id": "fc7d0b2cfaf1699d",
+   "title": "UK given access to safety-test latest AI models, minister says",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/uk-given-access-to-safety-test-latest-ai-models-minister-says/articleshow/134901262.cms",
+   "source": "ET Education",
+   "region": "India",
+   "published": "2026-10-12T18:39:26+00:00",
+   "summary": "Scrutiny of AI safety has intensified after developers including Anthropic and OpenAI disclosed instances of rogue or undesired behaviour by AI agents. Some industry figures have warned the technology could pose an existential threat to humanity.",
+   "topics": [
+    "Innovation & edtech"
+   ]
+  },
+  {
+   "id": "3b7a1ef3f2c9d862",
+   "title": "Dating app Bumble in advanced talks to go private at $1 billion valuation, source says",
+   "url": "https://economictimes.indiatimes.com/tech/startups/dating-app-bumble-in-advanced-talks-to-go-private-at-1-billion-valuation-source-says/articleshow/134901210.cms",
+   "source": "ET Education",
+   "region": "India",
+   "published": "2026-10-12T18:36:30+00:00",
+   "summary": "Shares of Bumble rose around 21% in afternoon trading. Reuters exclusively reported earlier this year that Bumble is exploring a sale amid slowing growth in the online dating ​sector.",
+   "topics": [
+    "Policy & regulation"
+   ]
+  },
+  {
+   "id": "9b53f381bf2e4d73",
+   "title": "Meta releases Muse Wonder AI models to challenge Anthropic and OpenAI",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/meta-releases-muse-wonder-ai-models-to-challenge-anthropic-and-openai/articleshow/134901136.cms",
+   "source": "ET Education",
+   "region": "India",
+   "published": "2026-10-12T18:34:26+00:00",
+   "summary": "The launch comes after CEO Mark Zuckerberg pledged billions of dollars and aggressively poached researchers over the past year to catch up in Silicon Valley's intensifying AI race.",
+   "topics": [
+    "Innovation & edtech"
+   ]
+  },
+  {
+   "id": "dc5f2faaf90b9fbd",
+   "title": "Hidden fees cost Michigan patients millions. Lawmakers push reforms",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeUhlSDc2enhHemNpWm5FRXp5SXFiVGk3dkk5eW9LcGJHNVFIYUtRS2FzRHlieTE2QS1EZlp6eGUxWFluS3dXNU1UQzNadzZ4blRNaW5kVEltUE5pblU1aDNLNGFYMEhtajF3RGRTbzAtS256Qnc2SXBUSU9XWi1JblFVUVN6Snl3RDRxcjBTdDlCVU1PTlZFTzNZblZHMWxjZjA1aTI1VnN1bzJvRkpB?oc=5",
+   "source": "Bridge Michigan",
+   "region": "Global",
+   "published": "2026-10-12T18:21:37+00:00",
+   "summary": "",
+   "topics": [
+    "Pricing & funding",
+    "Policy & regulation"
+   ]
+  },
+  {
+   "id": "0af7b8968cc6ca81",
+   "title": "\"Be curious\": My Future17 Story",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWDdpbk5vUTIxSVdrR1AyOG52aEVnRGdVSDFUczUtWFFmajZmT2twMXowSlFHU3lxcWZMYUNlaEpkR1dxU3hJaGVhbW81N0l6d2tjeUpZb2hhSHlKWEVadlVFMWJzSEZmbnl3RFVUeTZoVEhqR2J6d0tLNWtrYS1fYy1BelJzYW96TDlxNDRkaFI2dFk?oc=5",
+   "source": "Top Universities",
+   "region": "Global",
+   "published": "2026-10-12T17:42:47+00:00",
+   "summary": "",
+   "topics": [
+    "General"
+   ]
+  },
+  {
+   "id": "3fc9d5e6a1c8dc29",
+   "title": "\"Luarasi University offers programs in collaboration with LSE\"/ Pedagogy Zhaklina Dhamo: Job opportunities in the world! 30 scholarships available to students",
+   "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPQWxUVGQyWko1TEFZczQzM3lsRHRUVHZsRjQ1cFhfVjVIWmFlR2h4VkRZT0ZleUR5bHFYR0VaQ2tfODRRUHkxYW56TmVMX2hmb3ZCNW1oZEVNR3hDQzNKaE82OUxGV3N6b2lsY3JZcTU5c2YtTEkyVWNicEh3NWN3cG1DdkRUTWhuN1hvTkwwRklnNjBiMU9mN002RDRTS3VzTjhtNngtbVlUQ3JYLThkN3MyNlFLUkRzRVNxcnFLTXhBOUNSSXJWM01vd091VWY1RzE0QkFTOThJRWhXYlNiNU9aZHhROHFWVUJlbUpuM3ZzRjJzWkpncl9pcVRYajFmdGtEODdqeTNUTElBVmZvWkRUaE1LME5kTVJEaw?oc=5",
+   "source": "Balkanweb.com",
+   "region": "Global",
+   "published": "2026-10-12T17:12:46+00:00",
+   "summary": "",
+   "topics": [
+    "Pedagogy",
+    "Programmes",
+    "Pricing & funding"
    ]
   },
   {
@@ -72,6 +183,18 @@
    "summary": "In her latest column for The PIE, Diana Beech asks whether universities can keep their doors open to the world while guarding against growing security threats – and why getting that balance right has never mattered more. The post International security and defence: Is it time for universities to...",
    "topics": [
     "General"
+   ]
+  },
+  {
+   "id": "cbf4279564705695",
+   "title": "Families balk at college costs, leading some private schools to cut tuition and debt",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObkF1SnVoWTFudi1Cc1FBNEdzNTZSRlUtbUhmU01oY0hveklSejlLUHpVNWZJWlBKRGVlV3VCZXZLemdiZHRNRW1MOGlrU1RRb2dhVGxQS1Vza3p3aERaS3JFMmtRX0I3Y3VETURyUkM1UDJXcS04ZHYySzhfQlRPYTF6VjlxTWc?oc=5",
+   "source": "Star Tribune",
+   "region": "Global",
+   "published": "2026-10-12T15:46:50+00:00",
+   "summary": "",
+   "topics": [
+    "Pricing & funding"
    ]
   },
   {
@@ -181,6 +304,18 @@
    "summary": "",
    "topics": [
     "Rankings"
+   ]
+  },
+  {
+   "id": "323f2e8542dbff5e",
+   "title": "IIT Kharagpur launches free AI tutor and GATE, JAM preparation platform",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPNmZUaHNRTlNZaWxXeUlTTHg1ZnNOYU94WmUzeHpFRTFXMHJBbGNhcTB4U0VZN1RJWlRTQkFQbEJ2UDBJcHNIQ21YNm9Wcy05X19nQThmWlMzTVZqaXltTmd0SENVZHBjam4wVDBEWEhRd0VJSFY5OTB1LTlkYlJrdGd1LXVhZGVHVjh6a3I1V2dzUjBuQjdFNEZ4N1FjVjAxY1dqcE5STldjUENsVm85OVRTVGdpeTBnYzZ3VUF5MjVwWGVNdTZPVTd0cG55T3RMUXBYRTg2dm00Z9IB4AFBVV95cUxQanhMa09fNERaSkhxVlNseUV6aGZBNjVWemNsUDRzMDlvcHZFbEVzbjJ5a2wyUEN2VUFnUWpkd0YyeEl2ZlVQcEk3VkhzSE5KVi1vVmVaaHpRbl9CaE1nZE1keUtWWTYyMVdXVFVpQ2lTMm9YaC1KcTVVNkFyNWp0ejUtb0JHNy10QTdKVl92NlFGZ00zVHNpUXpQY2lqLTUwY2EwdWpKSzlPSWJlbjRpamF6amR2TE5KNXV5X3BTR01ndktPY3lzcmFVdTVJU3lGNXdxRlpkcXVwYU14RnlXYQ?oc=5",
+   "source": "BusinessLine",
+   "region": "India",
+   "published": "2026-10-12T14:48:46+00:00",
+   "summary": "",
+   "topics": [
+    "Innovation & edtech"
    ]
   },
   {
@@ -343,6 +478,18 @@
    ]
   },
   {
+   "id": "60bbf9776ed031b7",
+   "title": "Arunachal Pradesh women’s panel chairperson urges students to shun drugs, build skills",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdnYzVTNRVHAzbTZSV3dkNzN4RTJ0WjM1VXJtTHFidjdWSHpzYlMtUFBsc3lrb1FXMVA5bWo2eVo3bVhSYV9BMWQ4alI5YzNSQW5UUkx2ZTI2QXdfbFJmZWhvVXJfSFRlT0t2NFpqZEtjb0Zpbl9rNlRQTl9FSXp1WnNNWUZEYm5fS0o4WFd5TXNIRkRSRWp1aHdEcU8ybUNWUlNGRTYySzV6ckxhMk5UQ0dBelg0dDFiOENZ0gHAAUFVX3lxTE9aQ05sTmNJUnFyWHJWbmVqSGRtNnppeEc1Z2dJTllpLVNTSDdGeHNFR0JCSHU0bmpiQzdYOTZxUWNoM3NXdEk4YUFtdi16bTJ0STllRUpzRFBrRVJoTkdRNENDbGlzQ2xENl9paXJIX0dqdGxIMnV3RnFDT1d5RkVDNmR4M2xqc3h2WFQzWFZwUmx5LWVfYXNTdFptZXdIaDlaR3JHYW9tR1haeEdIREhwWlJubGtuaG9ldjU5YlI4Vw?oc=5",
+   "source": "ThePrint",
+   "region": "India",
+   "published": "2026-10-12T12:48:23+00:00",
+   "summary": "",
+   "topics": [
+    "General"
+   ]
+  },
+  {
    "id": "36be40af2a3f024d",
    "title": "IonQ to buy cybersecurity firm Elisity in up to $1.3 billion deal",
    "url": "https://economictimes.indiatimes.com/tech/startups/ionq-to-buy-cybersecurity-firm-elisity-in-up-to-1-3-billion-deal/articleshow/134893439.cms",
@@ -452,9 +599,9 @@
    ]
   },
   {
-   "id": "f01dc6a8a59bb271",
+   "id": "6d46aa6d1cc32ea5",
    "title": "IUB appoints Giuseppe Sapienza as teaching and learning educationist",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVmhiSHpnMWdBU2VGTkFOQTNmVXdOcWVBWHFzZkRXbXVlTVh2cmJVQzUxU09aV3dlQkVuUXh5OVNiOGY4WXREMEMzR3pQZGRIZHQ0VVdaVk9qS2M3bGNCSEZNNUl4NFFaUzREMllvLU1LelcwNjdUOUJBZ0tRLU9qMHo4WFNYMm1lcnRTSkI5Q0pILWZ5Uk9ock9iMEdKZVdUSGRNVTR6U1BRN3PSAasBQVVfeXFMUFZoYkh6ZzFnQVNlRk5BTkEzZlV3TnFlQVhxc2ZEV211ZU1YdnJiVUM1MVNPWld3ZUJFblF4eTlTYjhmOFl0RDBDM0d6UGRkSGR0NFVXWlZPaktjN2xjQkhGTTVJeDRRWlM0RDJZby1NS3pXMDY3VDlCQWdLUS1PajB6OFhTWDJtZXJ0U0pCOUNKSC1meVJPaHJPYjBHSmVXVEhkTVU0elNQUTdz?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNnBZVUwxdExSSGE5VFhkNm9TUUs0Ym5YbGZpZFBmd1VzSzFjbXAySlBGaHhzSm11NEViNkI3VEhUSGJ3d3Z0Wm9QMjVtYV8xQlhqaVh2d3M4WGN0R0hXX0JDcnVPcmo2TTNtN1RPNnptQ0xpSmppZkhZdTVWYU9PT2RLRXVOUy0zSDlNaW43akNXNEJVb2cwY2UzR05PRGhOTWw3dE530gGrAUFVX3lxTFBWaGJIemcxZ0FTZUZOQU5BM2ZVd05xZUFYcXNmRFdtdWVNWHZyYlVDNTFTT1pXd2VCRW5ReHk5U2I4ZjhZdEQwQzNHelBkZEhkdDRVV1pWT2pLYzdsY0JIRk01SXg0UVpTNEQyWW8tTUt6VzA2N1Q5QkFnS1EtT2owejhYU1gybWVydFNKQjlDSkgtZnlST2hyT2IwR0plV1RIZE1VNHpTUFE3cw?oc=5",
    "source": "Dhaka Tribune",
    "region": "Global",
    "published": "2026-10-12T11:40:39+00:00",
@@ -647,6 +794,18 @@
    ]
   },
   {
+   "id": "0d032a05dfa8de9e",
+   "title": "IISc Bengaluru Opens Registration For Genetic Engineering Course, Apply By November 10",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaGRhMFl6dE94M2JRMUVKOXlYamFhQXBJMkZGSzJDdElvbmlIamRZdDdGNG5zTGxhNVZBcWo2bmtocDR1QVdvallxQksxS3FjN0tjNFFZSTlNY0N6ZzhQUHVzcHZVZVRtbG1Iem9XdE9UamRjS052UEhiQ0VWcVJsQkFLRWVBb1lKdlhDb3BZOC15WWVrU09rdkZtZ19uMVZhcmoxQVpxaDFsVnZGU1hUdTNDTmg3Yk5yRDRybFVQSGd4dmPSAcsBQVVfeXFMT2g4d2dZU0lOUVBYdUhGYk9mY2pOYmFsaHdENV9rZlZUUDE4T1pmSGlPV0FSTDJ2aGxBWFNOWWUwQlg2eHRBT3FkMU5FeXNvV0NvVmItdUE1eHdDVUVlZkJZcEJDUWNtU0xyM1JoR3BiUDBWNzFnRUFKYmFET0Q3WmdXQW05WDk0eXZpeWIyYUdNRFBLUGJ3bFlyVEZ5ZEpZSEZjdjJCclhva1N6a1BkcUU2OEkzcHowWmlpZmVidFNrM1BUWlRtU2R3Qzg?oc=5",
+   "source": "NDTV",
+   "region": "India",
+   "published": "2026-10-12T08:45:34+00:00",
+   "summary": "",
+   "topics": [
+    "Programmes"
+   ]
+  },
+  {
    "id": "e211524d462ba270",
    "title": "NISM launches two certification courses on cyber security and cyber resilience for GIFT IFSC",
    "url": "https://www.hindustantimes.com/education/admissions/nism-launches-two-certification-courses-on-cyber-security-and-cyber-resilience-for-gift-ifsc-101791794313778.html",
@@ -656,18 +815,6 @@
    "summary": "These courses are aimed to strengthen cybersecurity capabilities, enhancing awareness of cyber risks, and building greater resilience across the IFSC ecosystem.",
    "topics": [
     "Programmes"
-   ]
-  },
-  {
-   "id": "1d55d9307c2c9fe1",
-   "title": "- Top Universities",
-   "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxQbEZlcUJkZ2IyOHhXMWtzWlJTSDA3TkZzRWROWmxFSkVTckNOU3YxdGVDd0NjWUNYV0hSUGFLbGw2YTRCNnFKclNPTENVRmdMRkNwbjI1bzFQRnBza2syVUdtYnh6VUdJMzlYYTVxZ21nSlZ4WUxBYXFrNGxqQkdNWFpJbjdfaHZSUUd2YzQxbnpNQTQ2MnlzZTJiaGxUWWFfdXZ0V3RVTkk1SkN2M3Jad1IxZnpWUVFtdnRWQ3ZqRmdXZjRsTUZrc1FTYmljWTdsTzJUeTI4bE44bEtVQ19TcjR5VGxHT25jUGJ0eFFkdGtuWWhpSm1maVlkSFdKdWJGcll6VDdYbGlGNUFKd3BfejBad2NzajIwSHhwLTFwUG96S1NzQ19aU3JMS1VSWktpV3FiZEVXQy1RcXhPZWc?oc=5",
-   "source": "Top Universities",
-   "region": "Global",
-   "published": "2026-10-12T08:38:40+00:00",
-   "summary": "",
-   "topics": [
-    "Rankings"
    ]
   },
   {
@@ -3164,18 +3311,6 @@
    ]
   },
   {
-   "id": "0af7b8968cc6ca81",
-   "title": "\"Be curious\": My Future17 Story",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWDdpbk5vUTIxSVdrR1AyOG52aEVnRGdVSDFUczUtWFFmajZmT2twMXowSlFHU3lxcWZMYUNlaEpkR1dxU3hJaGVhbW81N0l6d2tjeUpZb2hhSHlKWEVadlVFMWJzSEZmbnl3RFVUeTZoVEhqR2J6d0tLNWtrYS1fYy1BelJzYW96TDlxNDRkaFI2dFk?oc=5",
-   "source": "Top Universities",
-   "region": "Global",
-   "published": "2026-10-10T02:25:36+00:00",
-   "summary": "",
-   "topics": [
-    "General"
-   ]
-  },
-  {
    "id": "daf3f27637d6d0c2",
    "title": "Inside the IIT student suicide data: Patterns hidden behind 171 deaths in 20 years",
    "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPT1hVZ3ZiUnBCZ1kyUm9HTlUzUmJJNnV5MDNySlNXRjg2ZUpFRzRRMnUwWkpZTGhTVUhQVHpKTG9zQllYOHlKcHRhMnhDaEpOV3phLTVST1FBZ0VrZG1JS2ZOWjgyc29Xa1NCdHdPSmhtczYyQmNIeDhLUW1GaHNaTzdmWWltQktkSUlGdGt2MFZmbHhRdllzcnZMUVVuOElRZXhwNzhPQjVRV3FQeDcxWXRVaEdFQjhseGVSYWNoTDR3YTRTRnhETmZ3bk8yUlVVdGNwYzRmakFQdzRwc0tXRDB5X0t5S1h6RGJ2VUY0OHRxOHfSAfgBQVVfeXFMTU5GUFF2dXF4LWxuWV9yUHM1NWhQdFUwMF9DOVlwb2lVYUhUN3o0dUZMRHVNNXl3Nlk4VUd3YlN4Ymg1V1pYTVVBY1UxX2pvSENmU0lqUTNBVDRuRUgzeEJWaktsWm1kSlFubU1fOTV2V2pMRFpoSTN0WGpRQmxubWFqNm9kQVBHUHh0blkwdm1yQlVWT1plVWRvVDAwY0xndFo5ZXExa0JNSDZJaEJ1Y0ZvSUZLLUQ0dVlka0FRQzFQb2ZmWml5RW5kbGcxWUZnVFJXTG5rZUFGQm9yVXQ3WEV5RWZ0UnhtMHI2SlJRZ1N5SEpxeTNZbDc?oc=5",
@@ -3367,6 +3502,18 @@
    "summary": "",
    "topics": [
     "Pedagogy"
+   ]
+  },
+  {
+   "id": "e120e63e443ca635",
+   "title": "Geoenvironmental Sciences (Human Geography)",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPR20ybXQwUFdQdGRiT29EaDFxU0FSUks1eGtGZUlOR01Ddk1OWjV3M0NJQ3pkc1loSHl6WWIzaHVLZkkxUGxBUTJHTzlkWFk0V2RGV1Y2WXVfQjUtX1NUZFZyRUlaNnloZGRjajJ4UEZhLXpGRHNzNXlReUlhMk8wVGxSeTB3bkk2eTNYeDNXZWRobVQxS29Uay1WU25rY2RZeDFVUjJidkxqYzhfMUVOM0tnc2tFdw?oc=5",
+   "source": "Top Universities",
+   "region": "Global",
+   "published": "2026-10-09T18:32:37+00:00",
+   "summary": "",
+   "topics": [
+    "General"
    ]
   },
   {
@@ -5636,9 +5783,9 @@
    ]
   },
   {
-   "id": "8591a232f19d5748",
-   "title": "More universities end Turnitin contracts as concerns mount",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNLTBHbGlON21ETmh0Mk00OFFMUkxYSnR1SHFvbjJoXzllSkFYM1hkTFc2UWRzalhMaTl5ZWh6R09CeFhoTHUxT3FCLUFhY0NkRFcwaTFfakRmT1BFNUJ5UzdOc0dDZFZMNENqWG5Gb0hKTjN1QXlOaGJtQ0pYTHpWay1IelZyc0QwWkpqLTZTWmMtNktETWdrekhBLTM4dw?oc=5",
+   "id": "295dca827f40c50c",
+   "title": "Manchester seeks alternative Jodrell funds despite Burnham pledge",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOUtkckh4VXVCR0tWQjAzeW9tWF8wT3ZyVkVxVWRmM1ZMRlhDUTJIdktHVEtzV2J1czloSFlnVTA2bEdnc0R5cnMzcTNqckZub3N3a01oeVE3c1hiWFFiQjVXT0RnY212anAtSDVEVFlVYWdOYU1STHBqUThhS1dyTU5zYkRocHZWUzg1cjlWazloaWRVXzE3RUExQVg4UTN0MEZVclVvU0NNNTg?oc=5",
    "source": "Times Higher Education",
    "region": "Global",
    "published": "2026-10-08T23:01:00+00:00",
@@ -5648,9 +5795,9 @@
    ]
   },
   {
-   "id": "295dca827f40c50c",
-   "title": "Manchester seeks alternative Jodrell funds despite Burnham pledge",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOUtkckh4VXVCR0tWQjAzeW9tWF8wT3ZyVkVxVWRmM1ZMRlhDUTJIdktHVEtzV2J1czloSFlnVTA2bEdnc0R5cnMzcTNqckZub3N3a01oeVE3c1hiWFFiQjVXT0RnY212anAtSDVEVFlVYWdOYU1STHBqUThhS1dyTU5zYkRocHZWUzg1cjlWazloaWRVXzE3RUExQVg4UTN0MEZVclVvU0NNNTg?oc=5",
+   "id": "8591a232f19d5748",
+   "title": "More universities end Turnitin contracts as concerns mount",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNLTBHbGlON21ETmh0Mk00OFFMUkxYSnR1SHFvbjJoXzllSkFYM1hkTFc2UWRzalhMaTl5ZWh6R09CeFhoTHUxT3FCLUFhY0NkRFcwaTFfakRmT1BFNUJ5UzdOc0dDZFZMNENqWG5Gb0hKTjN1QXlOaGJtQ0pYTHpWay1IelZyc0QwWkpqLTZTWmMtNktETWdrekhBLTM4dw?oc=5",
    "source": "Times Higher Education",
    "region": "Global",
    "published": "2026-10-08T23:01:00+00:00",
@@ -13314,18 +13461,6 @@
    ]
   },
   {
-   "id": "18b5266475ac21b6",
-   "title": "UP Board Exam Date 2027 Class 10 - Check UPMSP 10th Time Table PDF",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1vZGdoMHdhVmpSODB0X1pFd3hFRlJIQWE1M2x4REQyM2lYQy1rWGJNUlk5Y0ptU1QtRXRYQjc0QnltWVJOUjVTenFhRWlBOHd6N2dweTlVTkExWDJXRjhGX1gtc2lRd2Y4STd4bEhKb3E0TGFiSEE?oc=5",
-   "source": "Careers360",
-   "region": "India",
-   "published": "2026-10-06T07:00:00+00:00",
-   "summary": "",
-   "topics": [
-    "General"
-   ]
-  },
-  {
    "id": "b85c42e57724c73b",
    "title": "IGKO Answer Key 2026-27 for Class 1 to 10 - SET A, SET B, SET C Answer Key PDF",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE16bktZVGJGQmgwUWFiZk9KRXNCRHFaeHJmSjh0UUsxdVZ5MjhqOGtMYTZ5Mk51UnYySEJ4ZzByQVdYTmVBb1EweFkzenNEQWUwQjN6YjNWRnBtQzJxclFhdEx5RVY?oc=5",
@@ -13424,6 +13559,18 @@
    "summary": "",
    "topics": [
     "Pedagogy"
+   ]
+  },
+  {
+   "id": "18b5266475ac21b6",
+   "title": "UP Board Exam Date 2027 Class 10 - Check UPMSP 10th Time Table PDF",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1vZGdoMHdhVmpSODB0X1pFd3hFRlJIQWE1M2x4REQyM2lYQy1rWGJNUlk5Y0ptU1QtRXRYQjc0QnltWVJOUjVTenFhRWlBOHd6N2dweTlVTkExWDJXRjhGX1gtc2lRd2Y4STd4bEhKb3E0TGFiSEE?oc=5",
+   "source": "Careers360",
+   "region": "India",
+   "published": "2026-10-06T07:00:00+00:00",
+   "summary": "",
+   "topics": [
+    "General"
    ]
   },
   {
@@ -23552,10 +23699,10 @@
    ]
   },
   {
-   "id": "e2ad2433afe780da",
-   "title": "CityUHK achieves historic high in THE World University Rankings 2027, soaring to 70th globally",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNXVQYUIwc3RTdkNwVXlvRURYRWFFSE5qYnFqWUMzaUtMS3hCWmxjMnpqVFZHT004QWI3My1GeTFhcGJ5bElwLU5RLUJLb1FUVFVIdHFMODZua1lyUDdtcEczZFptM1l0QV94M3drT1NZTlFkdkcwWll6aHBJc1MzbGJ6MjA1RWRWNWVHVTdIUnlnVmxXZVFjQlo5X2tDbnpJUVVSRG9YQmRtS0RiQy01YVB4QTZ4XzZONUVLWVNad3pNYXQ2cXl0c25CZHpoaXN0M0N30gHXAUFVX3lxTE93Qmp2OTFodTVrTnpyNGJKSHlIQTNHQnpSNDBIdnFpX3plQU1ZQmplMzlLQnU4UEpDdFN6cWxWaFZJM1RIU0FBSkJHc2RsbDl6bEs3WWFzTExfdnVEOXhtaGkxeVUyS3g3d3VWSDJSTlV6dE9RUmVDeHc2YmZEZ0JEelBQYUVYa0Y4b2Q1VGxudUdYTDZUSk4xY1lYZHE2RUNBcHJjTnBlWEN0X2ZsNjZORFBVQkNwNGpfRm1xaF9tSDI3WXBnQUdQeTVVUnhBekRvNUNEU0N3?oc=5",
-   "source": "The Tribune",
+   "id": "574513317ddc2ce8",
+   "title": "THE World University Rankings 2027 Out: IISc Bengaluru Leads Indian Universities, Oxford Tops Global List",
+   "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPYk91QkFDZTZDNktpUXNuWWlkam5RMTdVY3hCc2JwR1R1UDdkR0ZUSTg4VVk3NVJUYTN4Z3N4Vm5YbFVkQjRsV1F0NXFqTEQ0V2loTEZtX3RkWjRFZjV4UVhtZFVlRFJyMVVJV3RoRTREMnFOUDRYNkRMQ1N0LTNkVjMzQ2hJcjZYeEhVLVMzdTJRSjljZzBUZFgyTjZCM0lDQUl5TFRtRUVybWplbHppODdpbkM1dFdsd0hFQlV2WDkwUFNaU2RyVkNRZFR1Ym5pOW10X3VpeG5HdlIwUlE3TzJCMmVaZ1l4V3otNlpxalFzRFI1WklvclZhb3Q0Z3BXZzg4Tjl3Zmx5ODJPVGZua9IBlgJBVV95cUxNZ2x1engxMlFSWnE5Sy1ZR1M2Q3Y5Z2NnZldhSDlGSU1qeDlHdENQb2czODU5ek9Pck80OHo5WnpBV1g1U1l1QlViN0hILW8xUFpYbnYzZ2NwN2NXSVQ0OUNWVkpheXBFRmVOeDk5Y0tXX0J3UWFXWDBONHpkeTA2cW1oUW9Hd2ZVd05taDktMGtLRDNDR3FTVGFvMzF1eUN3WVJNOHhqLUo4YjlEb2lON0JLbWJoWW5uUWJGTTdsdjRNQmFSUWhabjl6LXpHT3JuYy1fTmdtZFhNYW4yY3R2YVhtbmYwejlVbm1FU0M5Unp6NkZjOTBPVUpSdzBvV1lmRmoyOC0xMXZqMVQxUl96blJ1bUYxQQ?oc=5",
+   "source": "News18",
    "region": "India",
    "published": "2026-09-30T07:00:00+00:00",
    "summary": "",
@@ -23626,6 +23773,18 @@
    "topics": [
     "Programmes",
     "Policy & regulation"
+   ]
+  },
+  {
+   "id": "661991ad3ff8b94a",
+   "title": "CityUHK achieves historic high in THE World University Rankings 2027, soaring to 70th globally",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNbll6THFuV3FaSV8yVG1JT05peHhsVFZLSWFRY3ppbE5mQTg0ZlJ1Z0VLUnNlZjhsOGxZMmtGdklQRTloUGNHQnUzLW5McHd2aks4TWdLSk9feEdqeGVfeXNUcmFXWFhMRXBuZkFjZndkYmZOWTdTZTlOdjV3cXI0ZmMzbmhuSlc1T1huZUs1Z0IwUmM2WFNpeGhuSW4wbU1OSG5raXBUNmdvMWJvcS1QbDBOLWZRSjdqRDVqa2ZWWlpzcFBtLUdad01NNUUtQTFxTC0xNUpVaTM2NTBudzJ2OWVIcVhXZ3BoMmc?oc=5",
+   "source": "PR Newswire",
+   "region": "Global",
+   "published": "2026-09-30T07:00:00+00:00",
+   "summary": "",
+   "topics": [
+    "Rankings"
    ]
   },
   {
@@ -23746,18 +23905,6 @@
    "summary": "",
    "topics": [
     "Programmes"
-   ]
-  },
-  {
-   "id": "574513317ddc2ce8",
-   "title": "THE World University Rankings 2027 Out: IISc Bengaluru Leads Indian Universities, Oxford Tops Global List",
-   "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPYk91QkFDZTZDNktpUXNuWWlkam5RMTdVY3hCc2JwR1R1UDdkR0ZUSTg4VVk3NVJUYTN4Z3N4Vm5YbFVkQjRsV1F0NXFqTEQ0V2loTEZtX3RkWjRFZjV4UVhtZFVlRFJyMVVJV3RoRTREMnFOUDRYNkRMQ1N0LTNkVjMzQ2hJcjZYeEhVLVMzdTJRSjljZzBUZFgyTjZCM0lDQUl5TFRtRUVybWplbHppODdpbkM1dFdsd0hFQlV2WDkwUFNaU2RyVkNRZFR1Ym5pOW10X3VpeG5HdlIwUlE3TzJCMmVaZ1l4V3otNlpxalFzRFI1WklvclZhb3Q0Z3BXZzg4Tjl3Zmx5ODJPVGZua9IBlgJBVV95cUxNZ2x1engxMlFSWnE5Sy1ZR1M2Q3Y5Z2NnZldhSDlGSU1qeDlHdENQb2czODU5ek9Pck80OHo5WnpBV1g1U1l1QlViN0hILW8xUFpYbnYzZ2NwN2NXSVQ0OUNWVkpheXBFRmVOeDk5Y0tXX0J3UWFXWDBONHpkeTA2cW1oUW9Hd2ZVd05taDktMGtLRDNDR3FTVGFvMzF1eUN3WVJNOHhqLUo4YjlEb2lON0JLbWJoWW5uUWJGTTdsdjRNQmFSUWhabjl6LXpHT3JuYy1fTmdtZFhNYW4yY3R2YVhtbmYwejlVbm1FU0M5Unp6NkZjOTBPVUpSdzBvV1lmRmoyOC0xMXZqMVQxUl96blJ1bUYxQQ?oc=5",
-   "source": "News18",
-   "region": "India",
-   "published": "2026-09-30T07:00:00+00:00",
-   "summary": "",
-   "topics": [
-    "Rankings"
    ]
   },
   {
@@ -24270,153 +24417,6 @@
    "summary": "",
    "topics": [
     "Programmes"
-   ]
-  },
-  {
-   "id": "9c23a0076736a7a8",
-   "title": "Physical education activist to deliver McGinnis Scholar Lecture, October 14",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORHk0UG9CQWhsMk5WdElfTXJVeWpkTUMxRXdMalJ5NEtkYTVlTTNhck1FWTRZcnhwUEhBQl9ZOHBQXy1aT09nUVpiQU5ZRC1TanVvZGgzU1dYVnpzS2txLXlCb05IY1k0X243am5fOXZURWVnY1M3cWpmZHBoY3haNmwxa1NjTGo0U3UwYnE0aEJsRGkwbktYT05TNG4zZk5GVFlHbUVsQU9vWXBzSDZodFE5S00?oc=5",
-   "source": "Illinois State University News",
-   "region": "Global",
-   "published": "2026-09-30T01:28:07+00:00",
-   "summary": "",
-   "topics": [
-    "Research"
-   ]
-  },
-  {
-   "id": "ac48e487d38ef055",
-   "title": "AI is changing higher education. Here’s how California schools are responding",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNR1JfV1pRVlZucVZTRy1pbWdsT2Q0dDJ4Y0JCVXppa3dtWnZyWmJiZUs3U0p0REREWHRZRnRvekVzSnRRMTM0YWUxSlctZzZ0Uy1wdEstc3RBREd5T3FTY0NRZXczakY3QzY5akVpSm1wd0pZazI2blNWdEZtc3FiTG5rVWhwMF9EVll30gGLAUFVX3lxTFB1WTVPRlpyT3p1djdIMVl1RzN6XzQxNGZ0Q2R3S2xtLVpnR2RRc2lmWUw1NENLX19pZlhJRUlCdi12Y1NiNXdFNk5GRlZpQ1J2S0V1ZTZxT3NIdzZDTE03dFE4YXhtQ3hXWVEwRERWWmdvaHB2bFA1QzVsVy1nSnpMQTQyNi1INVp0RWs?oc=5",
-   "source": "Sacramento Bee",
-   "region": "Global",
-   "published": "2026-09-30T00:30:32+00:00",
-   "summary": "",
-   "topics": [
-    "Innovation & edtech"
-   ]
-  },
-  {
-   "id": "5d9b77f641c2727b",
-   "title": "Other Humanities jobs in Chestnut Hill",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBfWmlnNG9sdDZ5bmxSLUl6NGNjckkzenozSFh5QjNOWGdtVzlYZjlQM0RMdkM3ZV9rVkt5ZGFUTm93RlBfMEo1R1F1b2R6djhiX3ZnR3ktNWlmWjNvVkExX2VtX3JrUm1HQzZrQjNUMDk?oc=5",
-   "source": "The Chronicle of Higher Education",
-   "region": "Global",
-   "published": "2026-09-30T00:23:45+00:00",
-   "summary": "",
-   "topics": [
-    "General"
-   ]
-  },
-  {
-   "id": "9c0de3918e7ca767",
-   "title": "Pilot classroom tests future of learning spaces at UH Mānoa",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONjVIamhMeHQzZ2x2STZfdExpQjBNT0RwQWVoblI2bnN3bzVYR0ZaLWMyd056MTZTZ3VxODFhdWhkVEgybGVzTDdDXzZsS0ZBdmZmYTRiVmtWVnFXdXNsUEFPVWh0bTBicmRLdS1OYlpoN0RLdkhWa0JyaTNPTDBBa2lZTnQ?oc=5",
-   "source": "University of Hawaii System",
-   "region": "Global",
-   "published": "2026-09-29T23:43:50+00:00",
-   "summary": "",
-   "topics": [
-    "Pedagogy"
-   ]
-  },
-  {
-   "id": "2f594ccd41ef1550",
-   "title": "Marist University brings IBM z17 on campus for new AI research incubator",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQaTV4WDVuUjNqNk5uWFRYNzl1X2JjRWFxYm9Lb1A3a3ozbFdxeF9IQVlYV3IwUC1wREpsa0QyNUVpbEMyWFl3Nnlpc1JPX1ljVGxhaHRqR3o0eEs4OXFLcFRLcEQwVG1OYnFJdlVkLUdRZkdJaHJQMG9tSjBQVzFldUVUMWVZaGlDOHhmbmNtS3JwaUxYY2hFcUZ0R0E1bEg5dGVfb0lZTEd5bUZSNGE2Y1dlaw?oc=5",
-   "source": "EdTech Innovation Hub",
-   "region": "Global",
-   "published": "2026-09-29T23:15:18+00:00",
-   "summary": "",
-   "topics": [
-    "Innovation & edtech",
-    "Research"
-   ]
-  },
-  {
-   "id": "4e7e9157b2a639d2",
-   "title": "Female researchers ask for less funding than male counterparts",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSTVja242U3ZUd01XYzlZODBGOXZjdlZXbktLVnBaaHdOVU9kRXpuOHlwWVNnd3BnV2Ryb0xDRHFEXzRTMVgtbUNObjVnNnhweWhzanlrdkZLRWNmSHdnSlRseGxGWDFXVXJzSGdCYzJINmZJQnBuemozemZuakpELW84YXlIMFNWVmExNWtPcFpGRzhhWEwtM2t2SQ?oc=5",
-   "source": "Times Higher Education",
-   "region": "Global",
-   "published": "2026-09-29T23:00:00+00:00",
-   "summary": "",
-   "topics": [
-    "Pricing & funding",
-    "Research"
-   ]
-  },
-  {
-   "id": "fb552a0c8707684e",
-   "title": "Tiered English tuition fee system ‘would denude rest of sector’",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcWxKeHFiSmhCNDJ3Ri1BaWVMSEFYZ3dsMVN1RldySVZTMk56VFZCWWFkbjJ3VGVhSEZVVkY4ZEdVV0toNThCeE9makozMVF6blRVUVlrVi1vMFdDdGNSRFFqMjBoRDI5UUNqMER2eVpUaWg5bGxOSXBHNF9POXNjckVqMnEtUjVBTWZyZ3l0a09aMVdEZ1pWSnNCMmplTWpBUmc?oc=5",
-   "source": "Times Higher Education",
-   "region": "Global",
-   "published": "2026-09-29T23:00:00+00:00",
-   "summary": "",
-   "topics": [
-    "Pricing & funding"
-   ]
-  },
-  {
-   "id": "0287f94345bad097",
-   "title": "Assessment has been redesigned for the AI era. Why hasn’t marking?",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOT2REMmd5MFVnc2lLUzNmUTZ4MWQtLTZPUzNsWnNWSlo2dEV4VnZFZDRmYS1CQmNSZDl4Y1RKWTdac0dPSTlpZEFobUpzU3JhbHFTeVhCSlgycVV5T2FUcVhuU2RFOWtXVzhta0Q5c1hYZ2JSS0xNaENoYk84UHQwWS03M3ZYLU5XelZLeVItdS1jenV2Q01sSjNheUtXTUhSSHc?oc=5",
-   "source": "Times Higher Education",
-   "region": "Global",
-   "published": "2026-09-29T23:00:00+00:00",
-   "summary": "",
-   "topics": [
-    "Pedagogy",
-    "Innovation & edtech"
-   ]
-  },
-  {
-   "id": "55eccbd02086f06a",
-   "title": "Higher Education Leaders Look to AI to Rethink How Colleges Work | Education | U.S. News",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRG56aHpUN3NKZ0s1MVlTVUIzOVBPeVh5UXp4VnVobWFGYW9iaWRzMXM1N3pFWXgxdDJNWXNmeGZIWFk1aG13bWZmYzZUSFYyS3kybEJzb1FTSE01eU9rSGdBNVV6OGJhZXdUTnljeDFEWms0ZVVZT1VNYTdoTm9iVjlNZWlTV0NpTjVnckJqcldtQk42bnZvM3kzYzctN05wcFJuOFAyRVhwQQ?oc=5",
-   "source": "U.S. News & World Report",
-   "region": "Global",
-   "published": "2026-09-29T21:38:00+00:00",
-   "summary": "",
-   "topics": [
-    "Innovation & edtech"
-   ]
-  },
-  {
-   "id": "5dc656f7ff0c8b2d",
-   "title": "From Campus to Career: How Colleges Are Rethinking Workforce Preparation | Education | U.S. News",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOclBBQVRNNUNKRU81SzU1aGdod2laczNZYTNOMDN4WjlMWG5OTkFaU1lwNVU4aEdCZnFsd0tLSkRUUFFJT1VmZWFrWlRCX0ljd2VGelpZeWtiUkU2ckRvbnZuREZRbVNYaTA1R05hc1R5U0JLemtlVmF1UGhXWHliMzVUQ2RuQVZqeExTU0F1WjlnRW55MWNybFB0MnpsbGtlRFFpNjRTcUQyZDU1MXdGc0hxYw?oc=5",
-   "source": "U.S. News & World Report",
-   "region": "Global",
-   "published": "2026-09-29T21:17:00+00:00",
-   "summary": "",
-   "topics": [
-    "General"
-   ]
-  },
-  {
-   "id": "9ca654a4da8dbb50",
-   "title": "U. of Michigan Leaders Hit the Brakes on Pass/Fail Plan",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNLV9HRU5SRFB5dXhoX3NJM1lQVWNUOGRJMUx4aEFKY2lXcU5tTFllcjZSUGZXTG1meFhGNy1qZXRUZGJlWFBydExFdHhvSVJ5RnNoc3hsVFBqcnJPMUZEUE1CUUhBM2JpM3kwZDR5V0NWQXhuSTAtTDdKS3BHcGw4Ym9EME1QV2JSUkVxdTJ5NkJpQQ?oc=5",
-   "source": "The Chronicle of Higher Education",
-   "region": "Global",
-   "published": "2026-09-29T20:56:56+00:00",
-   "summary": "",
-   "topics": [
-    "General"
-   ]
-  },
-  {
-   "id": "944044ad33ad3e4f",
-   "title": "Who Got UGC 5189A All Dusty?",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9lNFl0ZHRUNlp1eUxhUGp4Y2paT29YRGR6VGl2OHJoWTFha1F3MnBiTjdTYm5IZWFqbk1uWVRhVFhqNXE3RTI2X2swMDZaRGdCU0pQTkhhS1ItX2YtdlpBMVVjQzBjOFp4cnc?oc=5",
-   "source": "Astrobites",
-   "region": "India",
-   "published": "2026-09-29T20:38:08+00:00",
-   "summary": "",
-   "topics": [
-    "Policy & regulation"
    ]
   }
  ]
