@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T21:39:44.311281+00:00",
+ "updated": "2026-10-20T00:52:00.776407+00:00",
  "categories": [
   "Rankings",
   "Pedagogy",
@@ -15,6 +15,31 @@
  ],
  "items": [
   {
+   "id": "c3ac1746897da98f",
+   "title": "What if AI could strengthen academic integrity?",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPa2p2VmR3MEliWVRfY1JHZFdFUTVnellhbXJaaEJPUWFuVTNVbERqTXhEYnB6U01reGZWMVJJQ1J5YTJVeEZrc2FpNzROU0RoODczZzF0cDI0M0x3QmVrWFBKNE5tR3ZDTy1DWHV0N3JkRkxfYWV1RDR2Y1ZhelQybENSZVF0NFd1V0E5UWtsdC01U0ZwTmc?oc=5",
+   "source": "Times Higher Education",
+   "region": "Global",
+   "published": "2026-10-19T23:00:00+00:00",
+   "summary": "",
+   "topics": [
+    "Innovation & edtech"
+   ]
+  },
+  {
+   "id": "eae37d7688575338",
+   "title": "3 Utah universities among best places to get a technology degree",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcTM4WnVTdXNXYmpZRl9lbWdzdDFNbk40SmkwTE83azB2bDRWY1RpbnZ3ZkRGR3ZUb2hoX3k2MHRTeEJCNUREWTRKLVlwRUtYZUtlR01lTGNTcW9FakZ5aW1zV1lmd0hPMTMxQ3dZYUdxTTBNdWVZVE9YMjEtYWtYdi05YURMZ09wMjdTUDdlcW5RaW5Pb1RWb1pNS2FsNXEtZk9v?oc=5",
+   "source": "KSL News",
+   "region": "Global",
+   "published": "2026-10-19T22:25:57+00:00",
+   "summary": "",
+   "topics": [
+    "Programmes",
+    "Innovation & edtech"
+   ]
+  },
+  {
    "id": "fdd08283b0d1307b",
    "title": "College Student Mental Health: New AllOne Health Research Reveals Who Seeks Counseling and How They Access Care",
    "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQMVRpazBVaGNDTWRvSGZTTnZuNnJadmY1bGdSeWRLTDhtOVBoVzdTTDd1NmdEVlkyejRvbi1xSGxzTVVJeE5jTkplRGVfRGNJaW5hd0pQdzIwMEE4R3A3aXBHMl9Mc0FubEgyUVlKMno5ajcza0REVktVSVRMZWNxYUN0WlpfVWFzeU1PVGMtZ1dDY0RQSFVTT3ZxeEZrZXF6Nzl0OTBKX05LRnAxTHJReTl2R2FtcWdSMVpYVFNteGFYQ1FRTW1Gc0s5bjBGVlBiZTQ4eTJ2TFFkNGk5NTJkMDNnQmpSRmQ0dXVhMUxQcU9FSlU0eDVMcW9R?oc=5",
@@ -25,6 +50,18 @@
    "topics": [
     "Mental health",
     "Research"
+   ]
+  },
+  {
+   "id": "83127f708674663b",
+   "title": "IIT JAM 2027 Registration Ends Today",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxORHpnLTRIOU8xeVJRSlNNUE1CdGIwVFRqSGVJNXNVM2NiSk5FRkEzU2NKRTJWYkpaOUVfQm5JOERqYWlLZDZHX0w5dTZZRVE4WTFta3J0TUctN3ZESHd4TnB6d2pVcjJrYXNzdTdOM3dxblZJT08yelJJSFM1LTlwV01LTXhndw?oc=5",
+   "source": "BW Education",
+   "region": "India",
+   "published": "2026-10-19T21:02:03+00:00",
+   "summary": "",
+   "topics": [
+    "General"
    ]
   },
   {
@@ -73,6 +110,18 @@
    "summary": "",
    "topics": [
     "Innovation & edtech"
+   ]
+  },
+  {
+   "id": "b59e87c994944ca5",
+   "title": "Oregon State U. Put Its Chips on Computer Science. It Lost $19 Million.",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBJN0ladW54YVoydlhabm1wd2tXazVLOUFrMjc3UmgxUklCWHgwaldDVWlJUjU4azNNNngwUEhEQW5kYy1BMFBOYzF2THpLamVWQTZGQ0pWcnhWTWZ2bWh1UnNHb3c2V1BhcmhrYXZn?oc=5",
+   "source": "The Chronicle of Higher Education",
+   "region": "Global",
+   "published": "2026-10-19T19:29:10+00:00",
+   "summary": "",
+   "topics": [
+    "General"
    ]
   },
   {
@@ -614,7 +663,7 @@
    "id": "e7e0a814973800c9",
    "title": "UP NEET PG Counselling 2026 Dates Out; Round 1 Registration Begins on Oct 21 @upneet.gov.in",
    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNeklJUEdPR2tHaGxNZE5wOTVabDlCRkVnMUVQM2xrQ0VYUzd4dmNBQWk1M3lOLS0tcmNsQVJKZnozX0ZrS0g0OThtMGhRcVU0eWlDS1BTNDNwdVYwd3Zuc1RaUFJwS08teV9CdWc0SGEtdUhLcHh6aXBYZUlua2JQYWtxWXBJOU5vWTR3VkQ2dk1rbEdkZEV6WVUtTi1UMlE3M3ppUW53ZGJMa2JlVzVWWnJocWtSUmxzbFpLWU05dzh6aWpVcUwxZEtLTHF1NjVKNldpN1BpZXkzZjYzZG5lM1QwM2QyVEdMQWdrM2JB?oc=5",
-   "source": "Shiksha",
+   "source": "Shiksha.com",
    "region": "India",
    "published": "2026-10-19T09:48:58+00:00",
    "summary": "",
@@ -847,7 +896,7 @@
    "id": "42dd391abc34b9da",
    "title": "MCC Stray Round Result 2026: Check NEET Stray Round Counselling Result @mcc.nic.in",
    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQZm9ad1lYTFo5eXkyYi1YZFpqN244VFBiRGJfOTVLRV8xYUdfR2VZX0JoTEt3SUFQTVhPQnpRUHNQMEdSOE5yMDgtdEtsZmRCaHY4WUtXc3JFWmIydVg1azN5UlI5UEhMdmh2OFdtTllUdFl0SGpvT2xTLTRCWXQ5UDc3MFAxT1ZZUTIyQUJtcUZiVDI4Wk9zRWx5UVVLQmNwS2ROYXJ4eWlkXzFtZ3RPY194SF9IbnJ6cVo1ZnFvN3h1alFpdjlOdDV6MlZFREt5dXduX1o0Mmpfem42YUZqTmp6VlhyTEk?oc=5",
-   "source": "Shiksha",
+   "source": "Shiksha.com",
    "region": "India",
    "published": "2026-10-19T07:12:05+00:00",
    "summary": "",
@@ -984,7 +1033,7 @@
    "id": "482c39058a7563ff",
    "title": "Telangana NEET PG 2026 Counselling Registration Underway; Check Last Date to Apply for MD, MS Admiss",
    "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPbzU5MEx4RG01SFdLanR3LWFBSmhmS2laTUNBZWpnSjNoNnlDbTR6cEExOGhPanMyQ0c5d1ptc0lxV3BpV1lYMWJHRm1CdFFQQ1NjMEpFek9XTFZ0aUxaZU40VlpTaEpEdUctWHRKTDBiQThGd21PSnl4andjeHB6b2plVkloUWN0V2ZFeTZKQnc3eU5NLTdabFNTb0phamR3VUJKSmJXbTFJMWc3d1hvci1XWEI1YWxna0Z0SXhlSk1IbkpfaG1XS19VODAwMU9GUDJUZ29OekMtYmp5VlphSDV0RTE1ZGRlVUlRSGQtS1pWV0dheTN3dEhLUmp6dw?oc=5",
-   "source": "Shiksha.com",
+   "source": "Shiksha",
    "region": "India",
    "published": "2026-10-19T05:32:38+00:00",
    "summary": "",
@@ -3163,6 +3212,19 @@
    ]
   },
   {
+   "id": "acfb4e9ab51931fd",
+   "title": "KNRUHS issues notice on mop up round NEET counselling web options for MBBS, BDS admissions 2026, check...",
+   "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPVEt6bEFvQm9DbWt3T3YyNVNReDJtLTdYcEp0bmF5UmZmcWY4NUhEY3dlRFF4NE1sdGF1NFB0WGQ4UDIxMzZ0T1RpTWdHaXI5NHhhZ25wZmd4cXE0VllkSGZPN0xmMGhGNWRwcnZiQjZQdG5kcDFLUlVaT1RKT3g2czBlcmlOcFBTNE8tckw5THhWMUZrRGI1THFwaTEzaGswTE1ObllBLU8zcFdnbnJfMkVMR0QxVldKWW41UzhJY2Zad3hwNVhzN25lSFNENlZoeVNsamVLSEpGNV9tSjYyNVFHRW5MOFo4OEdrTkkzeDRaMlhLcUY3eElfMjZYZmhYNGljYmxBMFpFb0dQb1HSAZMCQVVfeXFMUE9tV0phM1NtMEtGeUdTODNnYkNFVVphcXFYMmVWcEdmWm43ODBQdy1CV2JRa2h5U2Rya2pERmRkemJzcE5FSDIzTlZLQzFLVFRZT28xSVdKMGJnRmtyZFpha3kzZmxmZlg0NWcxd0dUWndMNDdIUjRNeWZ2UThRdHFDZ19zLXRtQUZGbHhkMk1YaVhuMmxkT1NzNTk1R2Rvb19Kbmc5eDVLcmlTNmNHQ3gwc0tDQk9uVFJyVkdiRG50dXdnY2huVmp0TzdrZXR5WEEyYWNyenJuZmlXN3pmcndlTGprMzhxMjZyczNZeTdaY0FQYVZ2eWZMUDVNWVVzMVVWMGFBTG4zaEgyT3Qzb1JWLWc?oc=5",
+   "source": "Medical Dialogues",
+   "region": "India",
+   "published": "2026-10-17T06:00:38+00:00",
+   "summary": "",
+   "topics": [
+    "Programmes",
+    "Mental health"
+   ]
+  },
+  {
    "id": "14b608db0599f0b9",
    "title": "Varanasi: IIT to host AI for Healthcare and Assistive Technologies conclave on October 17",
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQb1ZXMm5heE1NRzM5dFlseF9FSGpfWG9hZTB6bXZwMkRFS0pWVHJ3TFN0ZmlNWmJMTGl2MDY2SVhCaVBpcTdWREM5eGRETWlzdnV6bkJXVFhVOFBpQ2FhOVU1NUd3N3pqYlV4OTNwU1Vvbk9HNFc5Y1IyeEg1ZmpYNEhjSUtscm04MFRvLVUzM3Z0RXktemt1bzFpd0Q1V1NyN3NqQmRnMV9nMUh6Zmx3WHB0dUhEYUk0VXfSAccBQVVfeXFMTXlpZmVoRTVHZzdUTS05RzB1Zm5DQ0JRdXMwNFBoTHdXdFFLbWxlWXlGRzFqd1F1Q0tRZWI4MFBHZTVVc2hzSTdiYzdhR2NjWFJLbHRPUG9NTkpyc3dQM2FBYk9IWlV4TkRRQ0Y2TlZLclRIeHFzOHZrSU80ZDF6cWp5TE9ucWZBY3VhNzJSUWNKb3VRU2tqYUVtNElKX1lpNzFNdjlZa1ZUZFY0RGhQOXFfWVRIWkZZX2R6WVd5QTYzVThpOHlxUQ?oc=5",
@@ -3515,6 +3577,19 @@
    ]
   },
   {
+   "id": "80912a8df6649cfe",
+   "title": "USask’s latest Maclean’s rankings showcase research and reputation",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZVRucnpENzdIc0dWeS02bUVEdzNDMUZueFdVQ2R1VHBfTmxqQXhlSDNva1h2UWhUZG83WmhWMkVFZXBEVlNvLXlTT0p4TzUtWllfaEV6V3dqTDRpOWVYYV9vREc0ZGxUS1QzN0hpbHdwcU8zeF9RLVhOMkMxTzhHQTYzajJPTlotQlktNDZqejFNdUd6YU1TNkZqYkw4Q3JlQ2dLNUxlSnFBb3NrdjktNGh3?oc=5",
+   "source": "University of Saskatchewan",
+   "region": "Global",
+   "published": "2026-10-16T21:23:17+00:00",
+   "summary": "",
+   "topics": [
+    "Rankings",
+    "Research"
+   ]
+  },
+  {
    "id": "d2a101d13dff6263",
    "title": "Local colleges discuss AI in higher education",
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORlBQbXhod3ZNdjFzM2g4OG9qUWIyUU9TZEtEbWF0RnFwclpxVHdCRTZyWFRQN1hWTFV2ZVd4cFBTei1fYVNRQ21WazY0dGg1Z3dvZGM2ak1STDVDbGZaXzRWSE1XVWtQOGtTOWpQT25PSTRiYk5TdjFucy1SZGs5cktRUWRQTEpzMDFPMlphYw?oc=5",
@@ -3833,9 +3908,9 @@
    ]
   },
   {
-   "id": "c121673468cee85c",
+   "id": "d844b445b2fbaab4",
    "title": "NTA revamps UGC NET December 2026 information bulletin; changes exam dates, barred items list, scribe rules",
-   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNUHRzdHFCMU5jMk5aNVJJMWgzUTZhWnFubWlQYm16OGJPbXJLY0x6V2hjQWlVSXJRQWYxQjA0TXFaU05EY3ZabW5xSVlVLWFVVWdrMURfQmRIWVJhN2Z2ank2VnlxU3lua2N3QUJCX2UzWnBidDZ4U3l6c3daLVBPX3A5LVNSY2s2OXhla2Z4LW9MV2I4czA1MGxwUmhqRk9XN3lVYjRYeU1EZGxlOEhOMFoxOFhmZFlXV2VFcFJlMEFIUS1fOTZ1NGhNanVkanNpdFdOV0dabF9HYXFkelJEWlg0QXNpRXQ5RzhXc05jUdIB9AFBVV95cUxPNjJxbm5vSXFzOHd1OWR5cVhFVGxnUE5oSTNmVzZQZ0haakJ4b21JaHkzTUdiVERKemxJbVlXbmRnU0FNb1ZRRTJDQkF4MzBQS1pHRER0cTB5QmZ5aVVHTkdtQlVlaUxZd0thUFJ1SElxTmxkWmRheG5jc2xxYWtUbXczVzFSWVBJVjZZa1FsWWxjUy13ZUs5akx2dTJoWW1DMHBjREFyOFZaaGpsS25vRXN0a29ob1BwN3hqYTJFT2FqLWtlSkpncUdLUlR3Q19HMS1QbjQ2NDNldkFrc2tmVGEwaVNBMkVZc1BhN25La2RnQ29r?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPNjJxbm5vSXFzOHd1OWR5cVhFVGxnUE5oSTNmVzZQZ0haakJ4b21JaHkzTUdiVERKemxJbVlXbmRnU0FNb1ZRRTJDQkF4MzBQS1pHRER0cTB5QmZ5aVVHTkdtQlVlaUxZd0thUFJ1SElxTmxkWmRheG5jc2xxYWtUbXczVzFSWVBJVjZZa1FsWWxjUy13ZUs5akx2dTJoWW1DMHBjREFyOFZaaGpsS25vRXN0a29ob1BwN3hqYTJFT2FqLWtlSkpncUdLUlR3Q19HMS1QbjQ2NDNldkFrc2tmVGEwaVNBMkVZc1BhN25La2RnQ29r0gH0AUFVX3lxTE82MnFubm9JcXM4d3U5ZHlxWEVUbGdQTmhJM2ZXNlBnSFpqQnhvbUloeTNNR2JUREp6bEltWVduZGdTQU1vVlFFMkNCQXgzMFBLWkdERHRxMHlCZnlpVUdOR21CVWVpTFl3S2FQUnVISXFObGRaZGF4bmNzbHFha1RtdzNXMVJZUElWNllrUWxZbGNTLXdlSzlqTHZ1MmhZbUMwcGNEQXI4VlpoamxLbm9Fc3Rrb2hvUHA3eGphMkVPYWota2VKSmdxR0tSVHdDX0cxLVBuNDY0M2V2QWtza2ZUYTBpU0EyRVlzUGE3bktrZGdDb2s?oc=5",
    "source": "Careers360",
    "region": "India",
    "published": "2026-10-16T15:58:35+00:00",
@@ -4678,7 +4753,7 @@
    "id": "e5d8bf46658bc5b0",
    "title": "MCC NEET UG Counselling 2026: Stray Round Registration (Open), Choice Filling, Seat Matrix",
    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB5NDZiNDVUc2laOVFFUkhKbXhvUlRSTF9mNGNSZWdPd0JNQ0tZYzRROS1IdDRXX0JmUG0zNWlYYjF4UkNiVWFyUzZzVFZWaGQtbVlieGpqMkl2TGNBaVViVzVORnJwcGttbng4YXBvZjhMeTA5b1VYSw?oc=5",
-   "source": "Shiksha.com",
+   "source": "Shiksha",
    "region": "India",
    "published": "2026-10-16T07:00:00+00:00",
    "summary": "",
@@ -4755,7 +4830,7 @@
    "id": "22edfd634dba2083",
    "title": "NIFT Fee Structure 2027 for UG & PG: Category/Semester-wise Fee, Refund & Withdrawal Process",
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPY2ZDMmNNN0pWUXNZeTVNWGpzYjdMb3RrbDFOZjBjUFo2M3BtcTdzNUtqNXBfZ2dSRkVKX1pqSlhuS1N4aGZDYzJKWWxuWlh0YV9rZS1WbEV3UW83R2dTN292VFJnOU95SnNlczRXUVZQWmk0WUR3d3FJSFdVQTk5dVZJZ0hTcWFhWk9hU3AtZlluN2piM295MUYweXkxZExNc0VKRHJXVQ?oc=5",
-   "source": "Shiksha",
+   "source": "Shiksha.com",
    "region": "India",
    "published": "2026-10-16T07:00:00+00:00",
    "summary": "",
@@ -7108,7 +7183,7 @@
    "id": "1453d67c60e34005",
    "title": "Graphic Era University Ranking 2026: NIRF, QS, Outlook,",
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOM0hIMHo4dWM1SGxEaDZqYVZvbXBPZ0xrb0lZQ1huRnFSd3VXbWV2eEJvdElrOE5xQ1p2Z0VjR29JQ0U5OGcwTklqOU45QUZDZXBIXzlrUWVwMkxVTnJ6a0VFdzNVSlV3WGIzMnZveVFzT3pXSlFHM0JCa1NDLVpjRnRLODFJZFg0Ym9SSFM4R2I1OWk2X05hZw?oc=5",
-   "source": "Shiksha",
+   "source": "Shiksha.com",
    "region": "India",
    "published": "2026-10-15T07:00:00+00:00",
    "summary": "",
@@ -7167,6 +7242,19 @@
    ]
   },
   {
+   "id": "9199954eac904050",
+   "title": "NEET PG Counselling 2026 Schedule (OUT): Registration & Choice Filling (Started), Seat Matrix & Process",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBpYkNSVHh3enJWbzZzNGlWOUg1Y3I1TnAxdzIzY2d4dTZNaDBySmIzNnV6MU9fMnhYVmxtWjR3ZkpjRURCaWE2MzlXRDEwU3VULVkxcDBieEZBNVF2OGtFVVh5eFBRY0F0bHZFY3VKcE1Ya1otV3g4dmhOVTczUQ?oc=5",
+   "source": "Shiksha.com",
+   "region": "India",
+   "published": "2026-10-15T07:00:00+00:00",
+   "summary": "",
+   "topics": [
+    "Mental health",
+    "Programmes"
+   ]
+  },
+  {
    "id": "250dddeb56472f3f",
    "title": "60+ Best Courses After Class 12th Science, Arts, Commerce",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBOcXFPanpBaWtwQlBob2hDZEV0WWZwWE56R25qbVNxUmF1YTFhQmozQ0lzNDNwWnRsY1FBVUtIZ2VFRVZ6UnlIa2MxTnNkX1doRlg1OTUzbWFjSmdBbE0xOW1RQnF5Ny1j?oc=5",
@@ -7175,6 +7263,19 @@
    "published": "2026-10-15T07:00:00+00:00",
    "summary": "",
    "topics": [
+    "Programmes"
+   ]
+  },
+  {
+   "id": "f5b721d6ae50dd3c",
+   "title": "NEET UG 2027: Dates, Syllabus, Pattern, Preparation & Expected Changes",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMF9TanhJd2I5eXZpdk0zZmI4ZHhQYkFpcXNZdl9MZ2NSWHJ5VGZ1Sko5SUN2Q3M2WWZkeUhoaXBPUXRVUlE5YVQ4VlBUMlQtc2ZrR0dPaURPNUkxRlo1VU8wQ1pTOVZtRUFaRm5UaGU2cHdOZkhFWWsyRlB5R2RndmFXU3VtWVVxV2RGQQ?oc=5",
+   "source": "Shiksha",
+   "region": "India",
+   "published": "2026-10-15T07:00:00+00:00",
+   "summary": "",
+   "topics": [
+    "Pedagogy",
     "Programmes"
    ]
   },
@@ -7260,19 +7361,6 @@
    "summary": "",
    "topics": [
     "Rankings"
-   ]
-  },
-  {
-   "id": "9199954eac904050",
-   "title": "NEET PG Counselling 2026 Schedule (OUT): Registration & Choice Filling (Started), Seat Matrix & Process",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBpYkNSVHh3enJWbzZzNGlWOUg1Y3I1TnAxdzIzY2d4dTZNaDBySmIzNnV6MU9fMnhYVmxtWjR3ZkpjRURCaWE2MzlXRDEwU3VULVkxcDBieEZBNVF2OGtFVVh5eFBRY0F0bHZFY3VKcE1Ya1otV3g4dmhOVTczUQ?oc=5",
-   "source": "Shiksha.com",
-   "region": "India",
-   "published": "2026-10-15T07:00:00+00:00",
-   "summary": "",
-   "topics": [
-    "Mental health",
-    "Programmes"
    ]
   },
   {
@@ -9785,7 +9873,7 @@
    "id": "f9c90965097d1557",
    "title": "Top Colleges offering Integrated BS-MS Dual Degree: Eligibility, Admission Process & Fees",
    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZzZQYWczMFFiWUl3cVhqNjA1SVVpNUZlMXZtLWYybWpIRkZUeFNvMmFsMDNQT0RrYUxteUoxRENFMG5xaTJqNjByRDJ5aFhXdzVvNlBWMEtNTHRYNXMxVVBTZFBqOEtNUVI5UXVNa2pkendvN3VjMmRpZGxISXVjLWk3NVlkTGtrUWR6Nmx5VWRxaWtSbVB6MUE5QW82cEswcmMzb0JUbWlRcVJ4MGh1S0hOdUJTTlFnSmc0SG5JVFhWajgxcy1tRUtaNEpONGtRdzVESnB3?oc=5",
-   "source": "Shiksha",
+   "source": "Shiksha.com",
    "region": "India",
    "published": "2026-10-14T07:00:00+00:00",
    "summary": "",
@@ -9798,7 +9886,7 @@
    "id": "d8eb6aca01b876dd",
    "title": "TOEFL Exam Fees in India 2026: Get TOEFL Fee Details",
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxObTlCeTMwUmtWaXVCcV9XRmo3NWQ5aWJtOHV2Q0xkYWZpekpOMnJkV3dQWV9WWUxDeUg2Sml0cDhHZjBSNXJXUHREYnBiTVdPUVlQcjc4UUYxdkFsWXFSRUEwM0pPbDF1blhBQkZKR1FobDF4ZlM4TFpHdlRiNEZxS2ptYw?oc=5",
-   "source": "Shiksha",
+   "source": "Shiksha.com",
    "region": "India",
    "published": "2026-10-14T07:00:00+00:00",
    "summary": "",
@@ -9848,7 +9936,7 @@
    "id": "dbb80c653481bed7",
    "title": "Top Universities in the World in 2027: THE & QS WUR Ranking (Updated)",
    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQOFZ0a1dPTnp2U2VOU2F3VW1HVkNsLW1odFg2bVVxbmdVSHZId1UyNm84TmF0ZDNLclJHVllOR05kNEhBNEs2TE1RYmxIa0tjZG5qb0t4clBlLXY0UkhhU2tJcmFHME1MdjNrbXU3eUNoWmF2RnI4aFVVMDd3anBZWU5HZmFJbm5wdnc?oc=5",
-   "source": "Shiksha.com",
+   "source": "Shiksha",
    "region": "Global",
    "published": "2026-10-14T07:00:00+00:00",
    "summary": "",
@@ -9869,6 +9957,18 @@
    ]
   },
   {
+   "id": "f530da2a26b6b98b",
+   "title": "Teaching excellence takes centre stage",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVFVZamdBa3B5NGdYMlZxS0NoWU9BY2diVm9SNzllcmI0NkZPVmF6eDBtNlpHOE1DY3RDZS13S1dadWRqOHVMZXRETGQzeFBTbkdPbkV2d3psbExueWVudkJiXzBUR2RVNkdvNWNMWDlvamF0alRqb1BqZUNnQ2RFYWpHdw?oc=5",
+   "source": "Queen's University",
+   "region": "Global",
+   "published": "2026-10-14T07:00:00+00:00",
+   "summary": "",
+   "topics": [
+    "Pedagogy"
+   ]
+  },
+  {
    "id": "d092b85ea5c9b478",
    "title": "Oct. 28: ‘Face to Face’: ‘AI in Teaching and Learning’",
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYWo0Z2ZLaFZKR1g4VmM5dEJ2UE1VWVZ1N3JGYVRPMlRBZU4wNEFxMDd3Z0YtNldybl9sd213aG9ENlp0UER4UlpZWVpGaWwtbFlJN2pka3JocmNVRUdzeU05WHIxdVJZdS1nUy1YTTQ2emo0d0ZxT1J6YW9GdTNMdXF0TUtSS3NEMlV1RTRQeG52SzFYeFNyNmxJVmk?oc=5",
@@ -9879,18 +9979,6 @@
    "topics": [
     "Pedagogy",
     "Innovation & edtech"
-   ]
-  },
-  {
-   "id": "f530da2a26b6b98b",
-   "title": "Teaching excellence takes centre stage",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVFVZamdBa3B5NGdYMlZxS0NoWU9BY2diVm9SNzllcmI0NkZPVmF6eDBtNlpHOE1DY3RDZS13S1dadWRqOHVMZXRETGQzeFBTbkdPbkV2d3psbExueWVudkJiXzBUR2RVNkdvNWNMWDlvamF0alRqb1BqZUNnQ2RFYWpHdw?oc=5",
-   "source": "Queen's University",
-   "region": "Global",
-   "published": "2026-10-14T07:00:00+00:00",
-   "summary": "",
-   "topics": [
-    "Pedagogy"
    ]
   },
   {
@@ -11108,6 +11196,18 @@
    ]
   },
   {
+   "id": "0d5857d9846c3d9a",
+   "title": "NLU Placements 2026: Median and Highest Salaries, Placement Percentage",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYkduOVZPQmgxeDFzSlBSUFBIUlR5S180dGFHNFVyQ1k1YnBfRXotQVo0TmpGdFNWT05xamp3eWJvcFFuNXlLVlF4MllRbEl0cG1sVTA4YUxOWmltWXZtS2RxMTAyNVA1cDEwN1ZHYUdyNkJSNlNJZ3pfNldhTE1tcVR5THV3OUNOOFg3cmVHU0JWUUlsTHE3clc3c2ViSXQ2YW9FQ2hTVQ?oc=5",
+   "source": "Careers360",
+   "region": "India",
+   "published": "2026-10-13T13:27:00+00:00",
+   "summary": "",
+   "topics": [
+    "Careers & placements"
+   ]
+  },
+  {
    "id": "41198a9724bf87b9",
    "title": "Computer Engineering jobs in Minnesota",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE56ajlhSWQyeVRzaHVRcmo5dzB1anZrbzJGSWhyREJVMzk5WjR6b0VVbkVvenZ1SklSWDV5b1dNMTlVVjY3dXFwcXhCc1hHaWlRVjNOZnI5eEw5dGtKNnFJanZUZVFaN1o2aTFYcktZT08?oc=5",
@@ -12069,7 +12169,7 @@
    "id": "361e452a34673851",
    "title": "List of IISERs in India: Check Out Courses, Fees, Admission Process, Placements & Cutoffs",
    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQdHplZTJzWXpwUU5Hc3RwTkxMWmR3cUpCM0o2dXZqQnQ0VmtTRUFJOHl3RWxQcDhHSEZneUR6NkVBdUtjX241bFBTMmJVNHZJR1F6MW1pd1NEVlJ6WlJUQVp5V2kxQ24tSGhLaFdaTmY4eU16UGVtX21jZndzZGUxR2hua3U0MUZ4ZlpBdkhxcG00eVJKSjlPSWVkSWQwZkZSYVJFTXBZVloxcDhXQnAyVFpIUzF1T0FKdHpBM19uQldaUnVO?oc=5",
-   "source": "Shiksha",
+   "source": "Shiksha.com",
    "region": "India",
    "published": "2026-10-13T07:00:00+00:00",
    "summary": "",
@@ -15063,7 +15163,7 @@
    "id": "e737ccadace54a46",
    "title": "IIT Bhubaneswar Ranking 2025: NIRF, QS, Times Higher Education, Times",
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTENmSGgyWWFBQjhxX0Z4ZFRzTE9JSjVBMXBOcG5wLTgwNHV4eF9ES2YxMGMwandaZXVodGF6VFl1Xzc2SE9FaDdVVUx3VkFyTkxKM29hTnRHdDd0VVNUeGE0Q1JPSW1JU0Z2Wi10X3B5clN5UFFzRGRNLVY0TncyNGJESU1kQWd0Z21Ld01EQUpqMnYzY2E4?oc=5",
-   "source": "Shiksha",
+   "source": "Shiksha.com",
    "region": "India",
    "published": "2026-10-12T07:00:00+00:00",
    "summary": "",
@@ -23094,22 +23194,22 @@
    ]
   },
   {
-   "id": "04b93c60b8875ee2",
-   "title": "KR Mangalam University Ranking 2026: Outlook, The Week, Times, Business Today",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQV09tR1FMQ1U3Rm82bGZxMm1Ra3JESUdacnR3bmIxZzA0aXpMTXVkQ2NlYjljc0xKaW1nVlFoQll6UHJDV3lJNkJnand2VkVpZGFTNGRzRG45Q2hyZWFsbXJ6NUljaG9MWG1INXptM3pZa0tnRmRoLUlyYWFES2d2LTBqNUw4UQ?oc=5",
-   "source": "Shiksha",
+   "id": "78fde1d2310187e9",
+   "title": "When is the TS Inter 1st Year English practical exam?",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOR01BRDZyR0xQdFRyTXE1MFp0aWx4WXhzakdOSnA4VktaNnFtakVLeE9qYzRCM3VrVGlLVFhMeHVlNVdaUTRCakc5TDdkVmxwblVrNW1BUnhPRDlZUXBWUlF4RHpnNmZzZzNCeGdabUU0Z09qNEctNFBjdG1qNExoMnptMS1jVDVEd3YwX0RfTFN2WWs?oc=5",
+   "source": "Shiksha Ask and Answer",
    "region": "India",
    "published": "2026-10-08T07:00:00+00:00",
    "summary": "",
    "topics": [
-    "Rankings"
+    "General"
    ]
   },
   {
    "id": "5e7ab55917748909",
    "title": "Agricultural Universities in India: Career options, Importance & Offered Courses",
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVkg4RkVEMVNPQXpjTHN1RTBUbUdlandrQ0h3WTliRldRNHJZM2FrTnVydk90aUFkb0NwaVFQSDlBVVpnUDc0eWRSVE9IdS16eVRsOUI2UnNFeW1aejFIVjJlS2dTNDNZbm5ER0xZNEdlSjdKRW1wYXRQNEhsWWhGaW5VZ2ItOFhteEdoQi0xaURoenNmM240?oc=5",
-   "source": "Shiksha.com",
+   "source": "Shiksha",
    "region": "India",
    "published": "2026-10-08T07:00:00+00:00",
    "summary": "",
@@ -23203,15 +23303,15 @@
    ]
   },
   {
-   "id": "78fde1d2310187e9",
-   "title": "When is the TS Inter 1st Year English practical exam?",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOR01BRDZyR0xQdFRyTXE1MFp0aWx4WXhzakdOSnA4VktaNnFtakVLeE9qYzRCM3VrVGlLVFhMeHVlNVdaUTRCakc5TDdkVmxwblVrNW1BUnhPRDlZUXBWUlF4RHpnNmZzZzNCeGdabUU0Z09qNEctNFBjdG1qNExoMnptMS1jVDVEd3YwX0RfTFN2WWs?oc=5",
-   "source": "Shiksha Ask and Answer",
+   "id": "04b93c60b8875ee2",
+   "title": "KR Mangalam University Ranking 2026: Outlook, The Week, Times, Business Today",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQV09tR1FMQ1U3Rm82bGZxMm1Ra3JESUdacnR3bmIxZzA0aXpMTXVkQ2NlYjljc0xKaW1nVlFoQll6UHJDV3lJNkJnand2VkVpZGFTNGRzRG45Q2hyZWFsbXJ6NUljaG9MWG1INXptM3pZa0tnRmRoLUlyYWFES2d2LTBqNUw4UQ?oc=5",
+   "source": "Shiksha",
    "region": "India",
    "published": "2026-10-08T07:00:00+00:00",
    "summary": "",
    "topics": [
-    "General"
+    "Rankings"
    ]
   },
   {
@@ -24330,104 +24430,6 @@
    "summary": "",
    "topics": [
     "Innovation & edtech"
-   ]
-  },
-  {
-   "id": "bea86e098e666548",
-   "title": "A Lawsuit Says Missouri Squeezed a Land-Grant HBCU",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORXRWZUNaV1VyazVySENxRzhfd2Nub3RhOXRRUGlEV2VBTWNteVNJMHlwdUtFcXpIQ2t4OXlDX292b2NLeFU0ci10ZWE1Zlg1MDk2ZkNPNGsyOGhrcmotWEFVYkZ4MFVWNjdXZURUWVF4U2docjRVeUk1dGllRlg5Q013dFd4VUZxa0ZDelhUaHJiY2tvNnI4R3oxVndhc2Y2V3FIZkNXU3lZM0sx?oc=5",
-   "source": "The Chronicle of Higher Education",
-   "region": "Global",
-   "published": "2026-10-07T22:07:16+00:00",
-   "summary": "",
-   "topics": [
-    "Pricing & funding"
-   ]
-  },
-  {
-   "id": "c9f344c15fc5409a",
-   "title": "A Lawsuit Says Missouri Squeezed a Land-Grant HBCU. More Suits Might Follow.",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORXRWZUNaV1VyazVySENxRzhfd2Nub3RhOXRRUGlEV2VBTWNteVNJMHlwdUtFcXpIQ2t4OXlDX292b2NLeFU0ci10ZWE1Zlg1MDk2ZkNPNGsyOGhrcmotWEFVYkZ4MFVWNjdXZURUWVF4U2docjRVeUk1dGllRlg5Q013dFd4VUZxa0ZDelhUaHJiY2tvNnI4R3oxVndhc2Y2V3FIZkNXU3lZM0sx?oc=5",
-   "source": "The Chronicle of Higher Education",
-   "region": "Global",
-   "published": "2026-10-07T22:07:16+00:00",
-   "summary": "",
-   "topics": [
-    "Pricing & funding"
-   ]
-  },
-  {
-   "id": "0351e7fb4d386afa",
-   "title": "DHS proposes $70K fee for initial OPT participation and $30K for extensions",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTnNvUEdTbzlubHBmUEMtUkVLZmd6cV9oMHpLZTdnVldQZDN1RHplRHphem54OHBmMWlTNXRJaWlNQWt4cGlwQ2FzMnhmOE1yeXdhQ3pZaHQyYTlhbXZhWEp5Zm5VZS1SMWkzQXRpNU83eVpweTdkbHpuelA4Rlc0WnZGbHA5ZmVlQVJLalRUMmpKMDVmZnRJam9tSnNlXzBuMFU5Y3gxNHFfMVpMQm52czdOUGJFUQ?oc=5",
-   "source": "Higher Ed Dive",
-   "region": "Global",
-   "published": "2026-10-07T22:04:30+00:00",
-   "summary": "",
-   "topics": [
-    "Pricing & funding"
-   ]
-  },
-  {
-   "id": "f0b0c39cb4d9e284",
-   "title": "Trump administration proposes a $70,000 fee for international students to work in the U.S.",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUDczRmpkQnAzSnNnQTh1SnJqNlVWbVBfSHJUcFROWklMQzNCRDJPdUllYlVmQVZ6OVJtRFlVRGY3bTQxUmZ1dDhBNmxNM0NOeDdJV0RYWHJpNGRITmVYc3EyeG14N0hWelFiMWFLdVV1QllLZXBWNmRiOGhaWEN4VGk5ZjFiVWg4alZJaEFIM1Y5RTV2Si1vWXFxc0tWMDl6RERRclNqRnZqYWRydVNkRTdESDFQRHpaa2k3ZWJXUWVWbGfSAcgBQVVfeXFMTXpaVS1PRWdEZUxmWUZ4aVBGc0tVeUdNNERFM29xVXB2R0Z1TFVWV0Y0TW9DbWVsV0pTS0U1TWk4Z2l5MDFLWFN2Nm5jOXdjWTkxRkU1TjJiY1c3WGlnY21QWWlmTXQ1cWVlOFl3RG9JbHhFRVVLNzhMbzdBQmFJTGxQSzRuWnVzWjNGaFVFdWxtY2hNZmxrZTNtWEp5RTNBaFRWVWl2V21sYnIyYjlESjhTZVlDckVzVnFBX2ZkUDdWb0w0X1dhZFc?oc=5",
-   "source": "PBS",
-   "region": "Global",
-   "published": "2026-10-07T21:16:23+00:00",
-   "summary": "",
-   "topics": [
-    "Pricing & funding",
-    "Study abroad"
-   ]
-  },
-  {
-   "id": "16aaee3630f619ab",
-   "title": "Other Humanities jobs in Hawaii",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1MV3VKVXctYzBuTUNOYzFnZkRhMURZNm9idV94eVpaYjBFR2VneEVqaUF4WTZtNkRBMFc0X3FiTkcxaHJzbk8wbGFGOGFsMlVGcHlaT1owNjBaLXZ2NHZDdUxQangtQkU?oc=5",
-   "source": "The Chronicle of Higher Education",
-   "region": "Global",
-   "published": "2026-10-07T21:13:58+00:00",
-   "summary": "",
-   "topics": [
-    "General"
-   ]
-  },
-  {
-   "id": "41a3c0c5f23a7e39",
-   "title": "UF to consider tuition increases for select pharmacy, business programs",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPNlBud1V0QUxpVk1zNVJuVUxRWC1nTk9yNk5sS0VxREhROE1QYzZvSU9mWVpRVXZXRHJkdkI2ZVFyV1hqOFYxUVZpR0F5d0ZuUDVJLTJYR3prRmRkRVpNRlp0OUJ6cFRaRzFnYTk0OFZkNE43SlBvd0Z2bjdHWWNXNGZKVXNDcV9ZZFk1anpScVBoWHlOZEFyT1BpTUpHMmlib045azVoNWQ5blBjYlpBVnpqU2EwM0ZuMzJBeHNDeElDS2tHc2NaTFFMOEVkYXZxUEpyZGtZcjBmdw?oc=5",
-   "source": "Gainesville Sun",
-   "region": "Global",
-   "published": "2026-10-07T21:07:00+00:00",
-   "summary": "",
-   "topics": [
-    "Programmes",
-    "Pricing & funding"
-   ]
-  },
-  {
-   "id": "db2f4767f0be478e",
-   "title": "University of Arizona suspends fraternity activities as reports of misconduct persist",
-   "url": "https://www.hindustantimes.com/education/news/university-of-arizona-suspends-fraternity-activities-as-reports-of-misconduct-persist-101791407133831.html",
-   "source": "Hindustan Times: Education",
-   "region": "India",
-   "published": "2026-10-07T21:05:33+00:00",
-   "summary": "",
-   "topics": [
-    "General"
-   ]
-  },
-  {
-   "id": "d7344c33ada677ba",
-   "title": "Cornell students stage sit-in to protest university's handling of alleged 2024 gang rape",
-   "url": "https://www.hindustantimes.com/education/news/cornell-students-stage-sit-in-to-protest-university-s-handling-of-alleged-2024-gang-rape-101791406883729.html",
-   "source": "Hindustan Times: Education",
-   "region": "India",
-   "published": "2026-10-07T21:01:23+00:00",
-   "summary": "",
-   "topics": [
-    "General"
    ]
   }
  ]
