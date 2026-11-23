@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T19:33:40.454443+00:00",
+ "updated": "2026-11-23T01:40:06.189060+00:00",
  "categories": [
   "Rankings",
   "Pedagogy",
@@ -15,6 +15,115 @@
  ],
  "items": [
   {
+   "id": "831220bfa5c94bae",
+   "title": "Blackboard brings essay replays to UK universities with Cursive | ETIH EdTech News",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQU9IYmdvSVZIVXZoYklWYVZHc1Z0SEQ3Y0RmOGpTejdVQzZkSTViTWE0bk9nd3JIOUpwTGtOUGpCVlJDeS1OUTlLOFlBdl9ERk5YMmFkc3JlY1NyVEQtMEhlU2FkYVk5X29QaFlya2o5dTZNWDNpcVdOemVvUlVKYnBqQndlaEltSnpGQUVaNFRTMllSQ0tlaWJGMTJJdHpmZ2xRajdiVzNydlVaS0N3dU93cw?oc=5",
+   "source": "EdTech Innovation Hub",
+   "region": "Global",
+   "published": "2026-11-23T00:47:21+00:00",
+   "summary": "",
+   "topics": [
+    "Innovation & edtech"
+   ]
+  },
+  {
+   "id": "82e4f558d8947ca0",
+   "title": "Collaboration might be the most important skill universities can teach | THE Campus Learn, Share, Connect",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOc1hMemlFdDhkMEdVN3BoYmVuREF6NW54YnVGSWFLNmdMNWFnanU2Qi04UjloV1kzSFlXNzl2OTY3enBFTVBXb0ZpbW5aZkt6WUhyM1c1Z1lleDZEMVh5eEZncVdWQnJzVndTSUJ0UXZhc20zcWhRVFUzNmxSS2pIRmpXaXQ0OE5KR1FTUlM2NktRN3dMZ2pUekxsc3NOemk1el8xS09nQmlQVDBZaXI0?oc=5",
+   "source": "Times Higher Education",
+   "region": "Global",
+   "published": "2026-11-23T00:05:26+00:00",
+   "summary": "",
+   "topics": [
+    "General"
+   ]
+  },
+  {
+   "id": "f15687cde398c321",
+   "title": "V-cs demand Home Office review of ‘absurd’ student visa refusals",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRzg3MW5SWTU5MFpVQTVVYzBuaTNyellJMThDbHBlRy1Dck80X0EzaTBvUWRJM1U3ejRpTllYbDlVY1dmRE9QaGlyVzhvUzQyUzZBZHpOZ1BobnhrUzdVLWxLQjhIdlF2TDJsV3dscHhHV1dLN212b0thYTZlNzg3eWJyWGZiX0I5a3diUi05dmc1N0FhcDdQLWNjNkZZWFFvV2Jj?oc=5",
+   "source": "Times Higher Education",
+   "region": "Global",
+   "published": "2026-11-23T00:01:50+00:00",
+   "summary": "",
+   "topics": [
+    "Study abroad"
+   ]
+  },
+  {
+   "id": "06cac801690b5a36",
+   "title": "Big moves for California colleges this week — from AI to a professor strike. What to know",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9BRTN2cEFYWFZYTHBjN2dpTmtnSm85Zy1MclZLVy0yQWtxQ0xrYUNCbHotS0FHQW5uejFvWC0wZVN0b2dzUFRPTGlPUk91UmRXUHR2VGtBRTNrOEJKWmtDbnB4dVRUTU4xZmNyZjlEdkNjVUE?oc=5",
+   "source": "Sacramento Bee",
+   "region": "Global",
+   "published": "2026-11-22T23:30:00+00:00",
+   "summary": "",
+   "topics": [
+    "Innovation & edtech"
+   ]
+  },
+  {
+   "id": "8e7aeb99c318a8e5",
+   "title": "IIT Madras invites registrations for January 2027 batch of School Connect Programme",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdlAxak54Q05laDVDM21ueXl5SDh1aWZOUTRnMGplVERQM3ZiM1FkZUUzZzczejZnOG9wR3BwN2o3akdQcnNyR2NUTllLenp5TGZ4N2l0UU5VMUdFTkduUDNtYmo3VlpQemJ4M3ZJank5QlJTcmJ4azhheEFMS1lfNVJFR0l6N3AzUUFVWHJyaHBYaHM5UkRVV1JabjVlN1F6SkprV1VQYUtqQXNTanc?oc=5",
+   "source": "News On AIR",
+   "region": "India",
+   "published": "2026-11-22T23:15:51+00:00",
+   "summary": "",
+   "topics": [
+    "Programmes"
+   ]
+  },
+  {
+   "id": "eec612da2d04449a",
+   "title": "Participatory Study Reveals Five Major Barriers Hampering Community Health Education Alliances",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQV2R3cG5EOEt0bFROaEo1ZDR3UWZoQUhGUjJaYlNfYzVzczJhU2Z6c3dMZUpXQ3ZMcXE0akpSTlhNYnlGUWNNWXpKM283eHBaSkF0aThYVWxlQllMR0Z5WWJOcVVlLWh4a3dITHRZVmtUZWtqdFFLR3l0SVc2ZkJDZUs3SDUtSjMxOThMT3NZZ2Ywekpmd0JyMVFJbnp6ejFJbktnTFdfVWdUeFVsci1HNDVUVlFvcE8yOUtz?oc=5",
+   "source": "Bioengineer.org",
+   "region": "Global",
+   "published": "2026-11-22T22:34:09+00:00",
+   "summary": "",
+   "topics": [
+    "Programmes"
+   ]
+  },
+  {
+   "id": "d6c6bb067ba6c94a",
+   "title": "U of R educators recognized for transformative teaching and innovation",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxON2VzcEFrQlNXZkVrNzF0blRHdFZVMHB1NjVpdVNYMnFPX2Z1YmRTeEhONXZhNmpmd2pVWFZJNnNJMFN0U3h4SWwtX3ZKcHRfV2dyRHFlZy1TbTdtSzZadU1yS3BvOWVYVm5CQ2hoUlFZOWpuZ010VUZCdGh5UEZFcDFMb1NkbkZ5MVdsN1gzdnJ3Wlc1NU1WTWdVSDBaTHlyWkFpR1M1cVU3Zw?oc=5",
+   "source": "620 CKRM",
+   "region": "Global",
+   "published": "2026-11-22T21:00:00+00:00",
+   "summary": "",
+   "topics": [
+    "Pedagogy",
+    "Innovation & edtech"
+   ]
+  },
+  {
+   "id": "0091e32edcbfe37c",
+   "title": "First batch of IIT Delhi’ Abu Dhabi campus graduates",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNV2Njc08ya05pb05uTVg4MDF4bDZlTzRTQVkzWDJZSFpkRzV2ZmdGM3VTWEJ3M2dDNndqaTB6amVubEo4aEMxUVJjWFYwVW5mdkUtcXhJLWpXOWJMbzR0VDRNUDRuY005cUdibFVCOEJJT1M5TGxvZk5EQldoZVdIZDlvaw?oc=5",
+   "source": "News On AIR",
+   "region": "India",
+   "published": "2026-11-22T18:55:20+00:00",
+   "summary": "",
+   "topics": [
+    "General"
+   ]
+  },
+  {
+   "id": "6ef1c87f48ae87b9",
+   "title": "Open Questions: Opinion and ideas from The Chronicle",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSnhuQWRlMW9GVFpQVVZZUExfQi1aWDZVWlNSMXVvcFZyVzloejBvNmxFNXlRWEdjdmxsVFN2bFpSMnFNNmtJR0wtdW1qX0VwZE1SOTNPV1ZsWXEwQnRCOHdYRnJfSnE1ODVFZTBZX3JCSFU0eTFoUjFBd1hkc0xHNEhpejY0NVJNVVlHXzFn?oc=5",
+   "source": "The Chronicle of Higher Education",
+   "region": "Global",
+   "published": "2026-11-22T17:32:58+00:00",
+   "summary": "",
+   "topics": [
+    "General"
+   ]
+  },
+  {
    "id": "a20d402cc5d4c84a",
    "title": "UGC NET Exam Schedule 2026 Out, Subject-Wise Timetable for 14–21 December",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBYTTJuSzFiZzlqcW9wTGtjYzh0S2stS3llMnNoR09qV1BITmY4M0N5RDRlalpjQWdNanJ1cW5IRGI5aHdHTm5TT2M2LU1HNzIzTld5c1NmVkhnU0JiWkg5XzVHQ2FwSEgyVWFBbmlEUTRJM2l1elFQd24yem5nU3c?oc=5",
@@ -24,18 +133,6 @@
    "summary": "",
    "topics": [
     "Policy & regulation"
-   ]
-  },
-  {
-   "id": "8e7aeb99c318a8e5",
-   "title": "IIT Madras invites registrations for January 2027 batch of School Connect Programme",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdlAxak54Q05laDVDM21ueXl5SDh1aWZOUTRnMGplVERQM3ZiM1FkZUUzZzczejZnOG9wR3BwN2o3akdQcnNyR2NUTllLenp5TGZ4N2l0UU5VMUdFTkduUDNtYmo3VlpQemJ4M3ZJank5QlJTcmJ4azhheEFMS1lfNVJFR0l6N3AzUUFVWHJyaHBYaHM5UkRVV1JabjVlN1F6SkprV1VQYUtqQXNTanc?oc=5",
-   "source": "News On AIR",
-   "region": "India",
-   "published": "2026-11-22T17:09:38+00:00",
-   "summary": "",
-   "topics": [
-    "Programmes"
    ]
   },
   {
@@ -72,6 +169,18 @@
    "summary": "",
    "topics": [
     "General"
+   ]
+  },
+  {
+   "id": "ba901543c0130982",
+   "title": "Uzbekistan revises rules for national university rankings",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPOU1hZTI1cjdhTTNzRktPclE1UXpNNkhSLXMtTElMcDBITmxqaWNyNXdMVkVpd2hJb3NBWHNNaF96ZUVkaG5WY0ZwMTAwN3EzdlhiaEpzTkZVeVNWY3ljb0hHVjgxckRFTV9yZGNGeVJOSTAxblVXMGExeHkxSWNfSVpZOFZRNXlqTzE5NnVQODBGU28?oc=5",
+   "source": "Daryo",
+   "region": "Global",
+   "published": "2026-11-22T15:00:07+00:00",
+   "summary": "",
+   "topics": [
+    "Rankings"
    ]
   },
   {
@@ -157,18 +266,6 @@
    "summary": "",
    "topics": [
     "Innovation & edtech"
-   ]
-  },
-  {
-   "id": "6ef1c87f48ae87b9",
-   "title": "Open Questions: Opinion and ideas from The Chronicle",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSnhuQWRlMW9GVFpQVVZZUExfQi1aWDZVWlNSMXVvcFZyVzloejBvNmxFNXlRWEdjdmxsVFN2bFpSMnFNNmtJR0wtdW1qX0VwZE1SOTNPV1ZsWXEwQnRCOHdYRnJfSnE1ODVFZTBZX3JCSFU0eTFoUjFBd1hkc0xHNEhpejY0NVJNVVlHXzFn?oc=5",
-   "source": "The Chronicle of Higher Education",
-   "region": "Global",
-   "published": "2026-11-22T12:47:45+00:00",
-   "summary": "",
-   "topics": [
-    "General"
    ]
   },
   {
@@ -301,6 +398,19 @@
    "summary": "",
    "topics": [
     "General"
+   ]
+  },
+  {
+   "id": "a238df4ca58c28f0",
+   "title": "Safe teaching and learning with AI",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5saEowNDdwSGc3aGxPd1RWTjVOdDNsM1pnMVlGeU12b0NKYmZ6MzdsbjJELW94MF9tYkNJOENYZUJ2dGM4VGUzUWxpeDhrVnRLem9SOXFsODV2Q05vX2laeQ?oc=5",
+   "source": "Vietnam.vn",
+   "region": "Global",
+   "published": "2026-11-22T08:39:01+00:00",
+   "summary": "",
+   "topics": [
+    "Pedagogy",
+    "Innovation & edtech"
    ]
   },
   {
@@ -501,18 +611,6 @@
    ]
   },
   {
-   "id": "3e817a08eac99f74",
-   "title": "New private Afrikaans ‘university’ campus makes people see red",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5nVEowUUtnV1pUYWVESllhMWNtQUpLVEdZd2hrY1E0MDIzdUk3a1pGbkc5SWNrQVk0QlpkQmR1U1VyQTVNbVNtQUJ5a3ktcFRwUm9GZC1rczFUOHdrSEhLWDloT0kzTFJpdEtuUU83X3BaalNyWlhn?oc=5",
-   "source": "University World News",
-   "region": "Global",
-   "published": "2026-11-22T06:38:43+00:00",
-   "summary": "",
-   "topics": [
-    "General"
-   ]
-  },
-  {
    "id": "fdf944c9926d1ba4",
    "title": "Court blocks policy limiting international student training",
    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB4Ul8wcjBEMHhxbG8wYzRJN25JdUdackdIeGl1WGdtNEVsLWpMcU5pam5XcHNXdVJLQXZJbTBFTXp5Z2trNFNaQVRoR0FNc3puZzc5ZVhnUXV1TTdNRGpJUVZUWTRBZDE5VTZQQlVjLUEzcXE4TzZR?oc=5",
@@ -535,6 +633,18 @@
    "summary": "",
    "topics": [
     "Innovation & edtech"
+   ]
+  },
+  {
+   "id": "3e817a08eac99f74",
+   "title": "New private Afrikaans ‘university’ campus makes people see red",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5nVEowUUtnV1pUYWVESllhMWNtQUpLVEdZd2hrY1E0MDIzdUk3a1pGbkc5SWNrQVk0QlpkQmR1U1VyQTVNbVNtQUJ5a3ktcFRwUm9GZC1rczFUOHdrSEhLWDloT0kzTFJpdEtuUU83X3BaalNyWlhn?oc=5",
+   "source": "University World News",
+   "region": "Global",
+   "published": "2026-11-22T06:38:43+00:00",
+   "summary": "",
+   "topics": [
+    "General"
    ]
   },
   {
@@ -671,6 +781,18 @@
    ]
   },
   {
+   "id": "f2a574b17598d9cb",
+   "title": "Keralam to revise manuals for school arts, sports, science fairs: Education minister Samsudheen",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPc3RTY0pEeXY4QjRaZmRzMFpIb0NmZ1p4VzJYeng2RUx3WkdCRC1jejlBVjBYd0RkZzNpdzJyNXctcDlfc0dURE9mWlRpQmFwdkQ3V0RPRTJsWGFMX2tyQVcwUV84NXBjbm1PY3ZFaDJJSWkwRnNTZmFFcDdtQzZiUnhVTV91WUFEdDBlcHVoeXZVVnVIN1lvQmh3ODBTcW5iQVdrdzBkdXBmOF9nLUVIZjNqbnVwTUVf0gG-AUFVX3lxTE90d212UU5fUWRRNUYxR29UOThfNnhSQkduWWdkWHlEWWF2UGVVT09IWHVvbXNxclprUDhoVEJySVhKZDZPT29COGFGcHJDZFo0RjFNOGhHZk5IRHFrbmdTbWFWdGY0Qm9uaFFGaUxLWkVVWms5SEhPNlZxam1hU1l5bFd5T0xZMTA1UHlaeEU1b3RubGhLemdidFltYzduN1hQaGlZbmJZZWd6U19YaVlDWDdFWFdaT3gtaldBMWc?oc=5",
+   "source": "Careers360",
+   "region": "India",
+   "published": "2026-11-22T03:06:33+00:00",
+   "summary": "",
+   "topics": [
+    "General"
+   ]
+  },
+  {
    "id": "76f438726a0cb3b5",
    "title": "KPSC KAS prelims result 2026 announced at kpsc.karnataka.gov.in: Direct link to download scorecards here",
    "url": "https://timesofindia.indiatimes.com/education/news/kpsc-kas-prelims-result-2026-announced-at-kpsc-karnataka-gov-in-direct-link-to-download-scorecards-here/articleshow/136066310.cms",
@@ -777,6 +899,18 @@
    "summary": "",
    "topics": [
     "Study abroad"
+   ]
+  },
+  {
+   "id": "e06f4cd76e6eb26a",
+   "title": "St Bede’s students pledge to fight drug abuse",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPX0F3TFMyTUFxOTkyaW5nWklOdmwwc0FBaEVseUFReHRkOFdPRFFvWVhtWFZsVDY5azhWTlFrUzNJd3NMeC0yZHRFVGFFZUZoSEcxcmVmSTRXSUVGejFSS0M5X3pqSmxLTnRrcy1kcVhId2R2dGZNWk5rWEZOSTc2a1RYMGtqOGlnREYyNkdiUUVmd9IBlgFBVV95cUxOelRwUTZ3X1ZuQThBZWpMLUlnd2poYWxDOXlHRmpnSXpOSTlkU1JWV3lwY1JkRzl4TGRDWkZqamgwQWFIdFM1WjB0UGs3WVVXYlJXSGtqZGJhQ3ROUUF1b1hNQ204S2hvMnZGc0J4UkxodjNPMXdUSkdCc3pMUWROVmFndmpMRWF4Q0tjOEtidUl6dk9qVWc?oc=5",
+   "source": "The Tribune",
+   "region": "India",
+   "published": "2026-11-21T19:55:37+00:00",
+   "summary": "",
+   "topics": [
+    "General"
    ]
   },
   {
@@ -2706,7 +2840,7 @@
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOc2ZTbWlCZGpHRC0zNmplbFdGczk2enhGNTNUWVlMTE1TNWs3WmJuYmo4aFpiSEtwWE94Qy14ZkhpcG50SmVFbW81a0tRWXhyUU42Q2pHUTdHR3p3QzdFVFg1OXc3Q1U1cGduUVYweEFRLWZBYks3UWIyWXpQRFloRkRHRkk?oc=5",
    "source": "University World News",
    "region": "Global",
-   "published": "2026-11-20T14:33:22+00:00",
+   "published": "2026-11-20T14:33:23+00:00",
    "summary": "",
    "topics": [
     "General"
@@ -4412,6 +4546,18 @@
    ]
   },
   {
+   "id": "101da63db3208a6b",
+   "title": "NEET PG 2026 Round 2 Result Soon, Says MCC Website; Madras HC Limits Stay to Sri Venkateswara Medical College",
+   "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPREtQSTZhMHpaclpIMzh2RExBZmxaRXhmaWltTDJNZ3RsNVJNVVpVOS1hSUpBSm4xak5hR0F3N2wwa2syQ0ZKZFBNMWl3ZDM1aXJYRG5XV0hfd0RQelVMVkNGMUItd3EyLVRqVEpWR3d5UFlEV05xd0RYcE0ydVhmeXczclp1NEI0TWgtalZkc2xsNmNyUjlhbG93d0NQakNYNUdUWjZPV3lXczdVQjFDLWhDTVk5aGZPRkhoamtkcVB1YzFuNDdQdS1FY2xfeDZSMjEwNGtFZ2l1UHZaNGtEaGxhemJFaEFnWWRTN056N1VXSmEyWVlvUl9OVjhZTlB2Z29MUHBR?oc=5",
+   "source": "Shiksha.com",
+   "region": "India",
+   "published": "2026-11-20T05:39:25+00:00",
+   "summary": "",
+   "topics": [
+    "Programmes"
+   ]
+  },
+  {
    "id": "ab633b0b27f838a2",
    "title": "What jobs can I get after BTech Biotechnology course?",
    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTFNhVTNDVXRlcE9TQ2Z6Nkl0TVpFZlZqZDYxcHdJMHJIeTRWTVBBWXBId0t6NzlHSnhGbkNfbXNrd0xnZWt1WmVzejkyaEJHWE5ZSjNJa2V3Q015YnRHNjExa3FGNm0xNlFEcFRhVUNoSU5RWUVQVXNDaVpNa1FBSENKOHU3V3RrTGU3VjJFWFZscnc?oc=5",
@@ -5685,6 +5831,19 @@
    ]
   },
   {
+   "id": "3f08e493931cb2cb",
+   "title": "Irish minister grants study visas to 48 Gazan students",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZUtMOHBjNkVJUUtJZ2NCN1Z5RXNpeUFPQmVncExQdHBBdDJSb0YyYk1UeDlINENpX2FPOXdPeFByUmpVVldWT1lPTGJQWGY2c0Jjb0R5LWJvcHZuT2lUazA3V0oxYnJpTGdTOGVUWFMyb1RpSk9tejRZRTRmNTliVDJPS0dWNTdrc2ZCZ3drV3Q2YWZLYzktVA?oc=5",
+   "source": "Times Higher Education",
+   "region": "Global",
+   "published": "2026-11-19T16:50:55+00:00",
+   "summary": "",
+   "topics": [
+    "Pricing & funding",
+    "Study abroad"
+   ]
+  },
+  {
    "id": "34243994e2dc0f48",
    "title": "NTA announces subject-wise dates for December UGC-NET",
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSDhFSURlYndraXBFcjc5cGVrMWY0UkNKekJ4U2Vqb2ZhMUtqaHcwNEItZXlFOHBvNjRwcDMzR3RUdlNBWEJZM0lZdmVTVHVVQ1VRT00zTGJQMmE1X0NzZ2JFOVJ3TkJ6WmlRUVNaMmJHYTJZenlVTDQ0RGtsZzkxRjNiWmRVdWdRbWNkX054cXpRS2pKYUxndmtnX3NvWHFOZmlIWEszONIBtAFBVV95cUxQYjNFRlNieFhfTDJzRmM5Uk5vX2YtWGJwREZzMWlxTU5zQlFnb29wSjExeXp5STlEd0JpejhmWnF2Ql9oSDVpeG5CTGd0V3VDY2lnUHZKMlFpOHNCLXNnNFktdmFiQTRITGhyVVNwVjVjT1h4UldFVHVRc0RUXy1tN2psdWpUVFVHMkNJaDNpM2J4elk0M3VfQ0MyLXpBb3VybUVYQXY4VXdRZkJ4RDViV19JNnI?oc=5",
@@ -5694,18 +5853,6 @@
    "summary": "",
    "topics": [
     "Policy & regulation"
-   ]
-  },
-  {
-   "id": "0091e32edcbfe37c",
-   "title": "First batch of IIT Delhi’ Abu Dhabi campus graduates",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNV2Njc08ya05pb05uTVg4MDF4bDZlTzRTQVkzWDJZSFpkRzV2ZmdGM3VTWEJ3M2dDNndqaTB6amVubEo4aEMxUVJjWFYwVW5mdkUtcXhJLWpXOWJMbzR0VDRNUDRuY005cUdibFVCOEJJT1M5TGxvZk5EQldoZVdIZDlvaw?oc=5",
-   "source": "News On AIR",
-   "region": "India",
-   "published": "2026-11-19T16:13:09+00:00",
-   "summary": "",
-   "topics": [
-    "General"
    ]
   },
   {
@@ -6810,9 +6957,9 @@
    ]
   },
   {
-   "id": "88bd84cdb8a43ec7",
+   "id": "47def505b696fe5a",
    "title": "Which MBA College Is Better: FMS Delhi or JBIMS Mumbai? Compare Fees, Placement, Top Recruiters and ROI",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPN1EyTGZQbk1OOE5zY1NCVnRBYzJXQllCdlRsVVFxM0t0aG9wLWFkdDNQbnNJVjBHZVVqSVVEbFBUTHl3ZG9FN1UydWs4Z1NCMnVSMEVDYVdpSDJJVXNtdWJ0am9UQzAzRU1GUHBaNlRvaHl1blRhaE9CcXBVMlRWVDJFenBRd0FaMGZYc0dhcFhSeC1XZ2dlX0ZKaW5BQ3dUX19neG8zSkstS3MyeDhXNjRIZGJLZXVuNlMzcThiTWRtZDgxT0R6RHJsNmpCUHdWNFEwWUdaTjnSAdgBQVVfeXFMTzdRMkxmUG5NTjhOc2NTQlZ0QWMyV0JZQnZUbFVRcTNLdGhvcC1hZHQzUG5zSVYwR2VVaklVRGxQVEx5d2RvRTdVMnVrOGdTQjJ1UjBFQ2FXaUgySVVzbXVidGpvVEMwM0VNRlBwWjZUb2h5dW5UYWhPQnFwVTJUVlQyRXpwUXdBWjBmWHNHYXBYUngtV2dnZV9GSmluQUN3VF9fZ3hvM0pLLUtzMng4VzY0SGRiS2V1bjZTM3E4Yk1kbWQ4MU9EekRybDZqQlB3VjRRMFlHWk45?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOYWY2UmdjbWlOVmNHVk1MN2x4cUUwbzhoM0s5ZGxYb3dtdXktX1VtZjk5UW82d3hWUWVLVkpOQmFPaXFxYzBNcTRac1UyaUExQ0dLY1c4dWo0MEMyU0dHMU5QZzMwSUEwdG5IQmNXQnNqUVM3aHBOV2VuZ3RUVzFVY2RKTlVKa3JVVWFsTElvTklVWTNWQ3A3WmFKUHBFYlFEWEVKRDJUV0stVlE1RXFQWS1KVWZwUUQ4OVBwOG5LcHd4cVNEVUhVYTYyb1NYWlZyakHSAdgBQVVfeXFMTzdRMkxmUG5NTjhOc2NTQlZ0QWMyV0JZQnZUbFVRcTNLdGhvcC1hZHQzUG5zSVYwR2VVaklVRGxQVEx5d2RvRTdVMnVrOGdTQjJ1UjBFQ2FXaUgySVVzbXVidGpvVEMwM0VNRlBwWjZUb2h5dW5UYWhPQnFwVTJUVlQyRXpwUXdBWjBmWHNHYXBYUngtV2dnZV9GSmluQUN3VF9fZ3hvM0pLLUtzMng4VzY0SGRiS2V1bjZTM3E4Yk1kbWQ4MU9EekRybDZqQlB3VjRRMFlHWk45?oc=5",
    "source": "Jagran Josh",
    "region": "India",
    "published": "2026-11-19T10:01:49+00:00",
@@ -7213,6 +7360,18 @@
    ]
   },
   {
+   "id": "8219b121bbf15df0",
+   "title": "Bihar Board 10th 12th Sent Up Exam Dates 2026-27 Out - Download Time Table Here",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRnpnSXVyYWVkWTQ2NDZfeGRVUFYyLUFVN2JkZFdKekR5dElfUWxYaUhuZ3dUX2ZYVWE4eTJOaVBESTQzNW5fY09KSktMdzlobXNBYVJId3dQVUowQkRnRlU2Z0lXcVFQTXZ2d2x5R1p0eE9wRFIydEw1RTNVZVMyYkxMZlVpanUxZ1BWMXdHWXJMUkVvZDM4?oc=5",
+   "source": "Careers360",
+   "region": "India",
+   "published": "2026-11-19T08:00:00+00:00",
+   "summary": "",
+   "topics": [
+    "General"
+   ]
+  },
+  {
    "id": "6745b99e2c76a8f3",
    "title": "Bihar Board Class 12 Sent Up Question Paper 2026-27 PDF Download",
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZGhKcFV4MUhZVHNVM2xqb2R3b1BwTTdBSVRiLVY3NzhRbVBRNnY5NVJYcTBXVlg1YnFnQlBEX1BTdDZCMDFaQzBac2s3UDlVZ3JrRnNlVE94b1A4Y2Z0VFdNQ3NYZTQ3WGFXSjNvMmFFelJLUjBYaWlCZGhabmcwS0tJa0xDUDNOdDBlekd4ZHJDTExHbjVRUw?oc=5",
@@ -7251,6 +7410,34 @@
    ]
   },
   {
+   "id": "37a8bb8c7b674e90",
+   "title": "IIT Delhi: Admission, Cutoff 2026, Courses, Fees, Placement, Ranking",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTFVYeU5VR2Q1Z2l6WlRDS3E5eFFodXNzVWdOYnV5eE85dU9RZHg4OTZISWhDa2hIdlpPOFpUdU1FUkFHU1FYVld4LXNiX09EdGpvVnNGMy1kMFRaU2FTRmlWZGFxRW5ldHFET0VLdFBiR3NYVUpwYl8wbDZ3aVYwc211NmhlM0ZI?oc=5",
+   "source": "Shiksha.com",
+   "region": "India",
+   "published": "2026-11-19T08:00:00+00:00",
+   "summary": "",
+   "topics": [
+    "Rankings",
+    "Programmes",
+    "Pricing & funding"
+   ]
+  },
+  {
+   "id": "54b99224a337e03a",
+   "title": "Nirma University: Fees, Cutoff, Placements, Admissions 2026, Reviews",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5FN3psY1U0SDgtYnhzR1lHZzhISElWNHkyOHV6N3hWNVpzdlFCTVpFRnlTOHhpa3MyYW1oYVdiZjNodlViaTQxTmRfTW5tQ3p5YnkzTTFOX2ZNb3JTWng5Y3FrLVZrOFBEMjlpYlBNdXhPamloT1E?oc=5",
+   "source": "Shiksha.com",
+   "region": "India",
+   "published": "2026-11-19T08:00:00+00:00",
+   "summary": "",
+   "topics": [
+    "Programmes",
+    "Pricing & funding",
+    "Careers & placements"
+   ]
+  },
+  {
    "id": "acf8b02ec0520bc4",
    "title": "Online MBA from IIMs - Fees 2026, Reviews, Placements & Scope",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPS1ZQck1qdk9xRTd3aVU1VHJ4S25hUWFqWnRjdXNBcnhZcEZ3U3VOQzFRTDl4aERiNDlWdmZ4cUM1RlZDYVl4SGk5XzZkUGNwSE1CVEh1QWc3TFNxdHJjTHZraWhNU2ZDMGd4NUlybHgzSEhkVjdwVVdiZFN5T2FsS2tjUnFRWTQ2?oc=5",
@@ -7277,6 +7464,18 @@
    ]
   },
   {
+   "id": "9d28f056af382151",
+   "title": "JEE Main Cutoff 2026 (Out): Percentile, Category-wise Qualifying Marks & Previous Year Trends",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBOVm9UaHdkSTJKMkJEaDllUnllb3owZ0JuWGVrekZ4QVlmYXY5ZmpkNTNRcnFqdnYtWU0wdVFfbFBmTVppbTVlQkEwcmhRX3FYMzdkYnV6MUFVSExHRmh6T0g5bVpoUWxrcU5j?oc=5",
+   "source": "Careers360",
+   "region": "India",
+   "published": "2026-11-19T08:00:00+00:00",
+   "summary": "",
+   "topics": [
+    "Programmes"
+   ]
+  },
+  {
    "id": "0ea964e444346071",
    "title": "NEET Application Form 2027: Expected Date, Fees Eligibility & Process",
    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNOURiYkVqNnZXSWZJTmEzZl9NblpaVlhJZjJ1M0s3cjA4cXBzeF9rN2x2aTZGaG5sZ3duNGNUN1hSUVVXZ1JFRE1sYTR6T2dnMHBXYi1tY1BuS0c4Mi0weDBKZ3QxZDY0OTVKcWNSMkxiel9yZFVVMWUxVlVaWG9YVQ?oc=5",
@@ -7287,6 +7486,19 @@
    "topics": [
     "Programmes",
     "Pricing & funding"
+   ]
+  },
+  {
+   "id": "7004e53302ddefcb",
+   "title": "NEET MDS 2026 Counselling: Stray Round Seat Allotment Result (Out), Registration, Choice Filling",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdDc4MG1HZ05kZVBRM0s3dEJNWFppVlRkLTkyZEJ6SzBDS2I3UmhFVnVya09HNmJjOHhkSGRGdHZfY2ctS2x3RG1hNTR4Qi00enBpbXlRRndCcUJrYXlTcnJ1em9xbjlidGU4N0YxM1pzM0Q5WHBLUERES19CeXdFMlIxT3lHd3hL?oc=5",
+   "source": "Shiksha.com",
+   "region": "India",
+   "published": "2026-11-19T08:00:00+00:00",
+   "summary": "",
+   "topics": [
+    "Mental health",
+    "Programmes"
    ]
   },
   {
@@ -7303,16 +7515,16 @@
    ]
   },
   {
-   "id": "7004e53302ddefcb",
-   "title": "NEET MDS 2026 Counselling: Stray Round Seat Allotment Result (Out), Registration, Choice Filling",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdDc4MG1HZ05kZVBRM0s3dEJNWFppVlRkLTkyZEJ6SzBDS2I3UmhFVnVya09HNmJjOHhkSGRGdHZfY2ctS2x3RG1hNTR4Qi00enBpbXlRRndCcUJrYXlTcnJ1em9xbjlidGU4N0YxM1pzM0Q5WHBLUERES19CeXdFMlIxT3lHd3hL?oc=5",
-   "source": "Shiksha.com",
+   "id": "41274d20084276c2",
+   "title": "Odisha NEET PG Admission 2026: Counselling Round 2 Provisional Seat Matrix OUT, Merit List",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5pZV8wLXBGVmdIVEYxdGViSmJ4cUdTMDBjLURpa0RZSS1fbG1EclpaLXhlQTBic0hOdm1QekNPdFpyV1o4emc5c0FEenpLYUtxZHpwRDJ6eVNIdzVoaGhacGlabmx6aTRJZFhnNnBia3JrWkJJU25v?oc=5",
+   "source": "Careers360",
    "region": "India",
    "published": "2026-11-19T08:00:00+00:00",
    "summary": "",
    "topics": [
-    "Mental health",
-    "Programmes"
+    "Programmes",
+    "Mental health"
    ]
   },
   {
@@ -7366,19 +7578,6 @@
    ]
   },
   {
-   "id": "41274d20084276c2",
-   "title": "Odisha NEET PG Admission 2026: Counselling Round 2 Provisional Seat Matrix OUT, Merit List",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5pZV8wLXBGVmdIVEYxdGViSmJ4cUdTMDBjLURpa0RZSS1fbG1EclpaLXhlQTBic0hOdm1QekNPdFpyV1o4emc5c0FEenpLYUtxZHpwRDJ6eVNIdzVoaGhacGlabmx6aTRJZFhnNnBia3JrWkJJU25v?oc=5",
-   "source": "Careers360",
-   "region": "India",
-   "published": "2026-11-19T08:00:00+00:00",
-   "summary": "",
-   "topics": [
-    "Programmes",
-    "Mental health"
-   ]
-  },
-  {
    "id": "0ea7441737001857",
    "title": "JEE Main Sample Paper 2027 PDF by NTA Out: Download Free Solutions",
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBQa3o3enBlRDVORFV4UExPVVlPa3JqT2FYbnczbnNhZno0UmFBQzdfd0plQjFtOTcyelFwUlNpcVpqQlZpTXNMeXF3cTR5bFMybXFZWS1rcmZESVE1blJic1l1N0dLZnBOMUJ0WF9MX3JudC00?oc=5",
@@ -7403,20 +7602,6 @@
    ]
   },
   {
-   "id": "37a8bb8c7b674e90",
-   "title": "IIT Delhi: Admission, Cutoff 2026, Courses, Fees, Placement, Ranking",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTFVYeU5VR2Q1Z2l6WlRDS3E5eFFodXNzVWdOYnV5eE85dU9RZHg4OTZISWhDa2hIdlpPOFpUdU1FUkFHU1FYVld4LXNiX09EdGpvVnNGMy1kMFRaU2FTRmlWZGFxRW5ldHFET0VLdFBiR3NYVUpwYl8wbDZ3aVYwc211NmhlM0ZI?oc=5",
-   "source": "Shiksha.com",
-   "region": "India",
-   "published": "2026-11-19T08:00:00+00:00",
-   "summary": "",
-   "topics": [
-    "Rankings",
-    "Programmes",
-    "Pricing & funding"
-   ]
-  },
-  {
    "id": "4912de63a62ae15c",
    "title": "Department of Logistics shares teaching and learning work at SoTL 2026",
    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOTzRzREtYUFVkQ0JJbEc5VHIzN1dEaVJySjhlVHdwNkl6OXhocUdxNUt4TUFaN2pzWmxqbzVpWHVLM0VkYm5Sb0tKdC1XZWllbWRwSzFocGxfQ0pSTGNJNHYtU1hHWGhQZlVPSkdlUXFXdElxWXlMNTkxOG5OcjRYbS1janBDYXFqSHc3eDJHZmlNa0w4RXozdjlSMFllTmh4R2ZQVjhhcHNrNkE1bE52S2tMLVhfTTVSdU9iVkJIQVQ2VE1pNk9MbE9INE5OUQ?oc=5",
@@ -7426,20 +7611,6 @@
    "summary": "",
    "topics": [
     "Pedagogy"
-   ]
-  },
-  {
-   "id": "54b99224a337e03a",
-   "title": "Nirma University: Fees, Cutoff, Placements, Admissions 2026, Reviews",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5FN3psY1U0SDgtYnhzR1lHZzhISElWNHkyOHV6N3hWNVpzdlFCTVpFRnlTOHhpa3MyYW1oYVdiZjNodlViaTQxTmRfTW5tQ3p5YnkzTTFOX2ZNb3JTWng5Y3FrLVZrOFBEMjlpYlBNdXhPamloT1E?oc=5",
-   "source": "Shiksha.com",
-   "region": "India",
-   "published": "2026-11-19T08:00:00+00:00",
-   "summary": "",
-   "topics": [
-    "Programmes",
-    "Pricing & funding",
-    "Careers & placements"
    ]
   },
   {
@@ -8089,6 +8260,18 @@
    "summary": "",
    "topics": [
     "General"
+   ]
+  },
+  {
+   "id": "91c18caca2d46745",
+   "title": "UGC NET December 2026 subject-wise exam schedule out; check dates and city intimation slip details here",
+   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQQS1hMUQ5UG8ycVhsZzJMMVlkMHY0SUkzU1FvU3FaRkxGMUZJemR1b1E3ak85d1R2c3JKcVd6anM2S0E5SmNqYnlNaHZSSVpnbzNxUkJuRVdDamJiNElQYVM4Q091Z1Z6QjRqWWxFWVB1NG5sVy14UmN5UHk4VS1HS2R1dFFUM0dzMXFUUzkzdWV1czFHMk00WDN2TXJWNHBNYllBMVk0MmRJZ05WeUNnYUx6VnVmVWV4SEJaS1dvSi1FOV9UYVhQVm1fOGlveFFZNWxLT3NsY3BEQ3d0clRzbGVpaFFydExXUmIw?oc=5",
+   "source": "India Today",
+   "region": "India",
+   "published": "2026-11-19T06:03:43+00:00",
+   "summary": "",
+   "topics": [
+    "Policy & regulation"
    ]
   },
   {
@@ -8812,6 +8995,18 @@
    ]
   },
   {
+   "id": "58326fe5e9758c2d",
+   "title": "AICTE approves ASDC's apprenticeship-linked curricula in three automotive disciplines",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQbEllYXkybGVRRG1iVU5LVHNrZnIzamZ1TG1kUTh2azk3Wm4tWGdYUlA0YnJnUjRHaFJ1UnF0c25Qb216SHdrbmRkWHhJX2JyOGVqV2hPaUhDRXdUTFl3a19OamI5eURCWmFLU3JaVUQtVElTQVBiSDRZaU92N3pMRnJ3d1hPc2o2MW5BUnA4WE8wT3lwVTIxaS1YLXk1TXRQQWtHRzk5c2NZQ2Y5MDJNUU1vSzhaZ1E0cVF2Y0EwWXBaM2JxZjQ4TXNKaFFqRVp0UDV4b3Uxc1EwaDZFTjVCaHlac0XSAegBQVVfeXFMTXhxZjZwREw2eXRPTnlvR0t5cnN4U2xCSnNVcUtKd2JibE95QjQ4SUVxdEd2dUdBT2lYc3J6VkJPZWYwSERSenQxOWMxSkdtMURXX2NSbTRmbVIwLUpyZDBzQWYyZUd6b3dKbHVOWllFYkw3TWtGd3Y3LXM5dzcwOGx6d0UwQ2JBdXQwN1NIYjk4d21sWTk1ekJpbjhNY2FKT1ZDNUFZcks0RGl5bHl5SUdydFNBd2k3R0tkTWZ0T0kzWWVHcTd2U2pxclpYREMzUWFJcjFSek9TdjlkZmJVYmlwR00xNy16bQ?oc=5",
+   "source": "ET Auto",
+   "region": "India",
+   "published": "2026-11-19T00:20:00+00:00",
+   "summary": "",
+   "topics": [
+    "Policy & regulation"
+   ]
+  },
+  {
    "id": "876bf2e2ad125095",
    "title": "Lower fees for EU students ‘good for UK universities’, MEP says",
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQYkNpT3VmZDhoZ0lNdnRrNG1KOHZwb1ctYXp3VEZOUTNPZldsSW55d3FRZGswMHVMdjBMcGgyVVJzby10Z2Q0dzR6U0ZlbHZEWFpJb2JvanhJUEFkTnU5OFRjcEdyeGZ0TnFyUWJhTGNxLS04QjcwLWVwM052VHgzQjdQdWdSMUw3OTV3amEwS1VnVWdjUjl4TDRB?oc=5",
@@ -8925,7 +9120,7 @@
    "title": "UAlbany Awarded $500,000 Federal Grant to Strengthen Suicide Prevention, Student Mental Health | Newswise",
    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNdlJtUlJ0RUpSMUp4QXh0bWlqdUREMmFQNjZNWVR5WHhjeEQ0UUFIOWJSaFB0dl9uRTVFdEN2cVNxcmJ4Mm1EX0JGWTdYZ18wQW43ME1jOHJoWmZEWTluRFlCXzdydDQtNjB5QVlVUWQ0ckFXSzh1NHo4U0RKcnk5cEpGNGVUWXZCT0R3X0VhZWhLUXpmYlk2YkxiRld6Mi1QbFVQMkotUHFUYVkxaTJkbkJ3RWNyMXNRYnRoNWdUdXFUWjU30gHEAUFVX3lxTE12Um1SUnRFSlIxSnhBeHRtaWp1REQyYVA2Nk1ZVHlYeGN4RDRRQUg5YlJoUHR2X25FNUV0Q3ZxU3FyYngybURfQkZZN1hnXzBBbjcwTWM4cmhaZkRZOW5EWUJfN3J0NC02MHlBWVVRZDRyQVdLOHU0ejhTREpyeTlwSkY0ZVRZdkJPRHdfRWFlaEtRemZiWTZiTGJGV3oyLVBsVVAySi1QcVRhWTFpMmRuQndFY3Ixc1FidGg1Z1R1cVRaNTc?oc=5",
    "source": "Newswise",
-   "region": "India",
+   "region": "Global",
    "published": "2026-11-18T22:05:00+00:00",
    "summary": "",
    "topics": [
@@ -9202,18 +9397,6 @@
    "summary": "",
    "topics": [
     "General"
-   ]
-  },
-  {
-   "id": "58326fe5e9758c2d",
-   "title": "AICTE approves ASDC's apprenticeship-linked curricula in three automotive disciplines",
-   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQbEllYXkybGVRRG1iVU5LVHNrZnIzamZ1TG1kUTh2azk3Wm4tWGdYUlA0YnJnUjRHaFJ1UnF0c25Qb216SHdrbmRkWHhJX2JyOGVqV2hPaUhDRXdUTFl3a19OamI5eURCWmFLU3JaVUQtVElTQVBiSDRZaU92N3pMRnJ3d1hPc2o2MW5BUnA4WE8wT3lwVTIxaS1YLXk1TXRQQWtHRzk5c2NZQ2Y5MDJNUU1vSzhaZ1E0cVF2Y0EwWXBaM2JxZjQ4TXNKaFFqRVp0UDV4b3Uxc1EwaDZFTjVCaHlac0XSAegBQVVfeXFMTXhxZjZwREw2eXRPTnlvR0t5cnN4U2xCSnNVcUtKd2JibE95QjQ4SUVxdEd2dUdBT2lYc3J6VkJPZWYwSERSenQxOWMxSkdtMURXX2NSbTRmbVIwLUpyZDBzQWYyZUd6b3dKbHVOWllFYkw3TWtGd3Y3LXM5dzcwOGx6d0UwQ2JBdXQwN1NIYjk4d21sWTk1ekJpbjhNY2FKT1ZDNUFZcks0RGl5bHl5SUdydFNBd2k3R0tkTWZ0T0kzWWVHcTd2U2pxclpYREMzUWFJcjFSek9TdjlkZmJVYmlwR00xNy16bQ?oc=5",
-   "source": "ET Auto",
-   "region": "India",
-   "published": "2026-11-18T17:34:58+00:00",
-   "summary": "",
-   "topics": [
-    "Policy & regulation"
    ]
   },
   {
@@ -9753,10 +9936,10 @@
    ]
   },
   {
-   "id": "4248094e851f8805",
+   "id": "6a72372055c4c5e9",
    "title": "JMI launches peer support programme, WhatsApp helpline for students’ mental health",
-   "url": "https://indianexpress.com/article/education/jmi-launches-peer-support-programme-whatsapp-helpline-for-students-mental-health-10968559/",
-   "source": "Indian Express: Education",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOTXdkVGhodmZHM2hyRUJ2UmZpMllCY2puak1RZlN1ODc1OXRfV1c5YjNlQTdXNGNVek12Sm9FeC16MVNUWTc0YmlQVlZzWGw0OFllak1RZG9xTW1DWlBQeEs3ZF9LM1piaV9PTkJXLVZNWC1mT0JFbXhPYlRUVmo3SUJUOGcxbkdiTVc0SXFGX1Uwd21PUWlFUzNrOXJsSUFyWDIwY1FWLTMzUVlqVF9KVk41MTVuY05OdjQ4THRHTHZRTlJKVGhuRExDWkU4dk3SAdYBQVVfeXFMUEw4b2FaNlNKTml5QzBhckdpeGlJdjBDOU5UTVBDd0E1Z2FFMGpORXRZRGY0azYyY2oxTHFoR19WZWNVR21pamV3STJXR0ZMSk5TTU5uVTA2QS0wUmRrVmlaM0p6cnppS1lKeEh4WFE2YnRFelF3UE9KVnFCeVZhUnRnOXotOHhodzBSV3dfQS1UQ1BHOWZNa1VjTVF2Q0ViSll0ZmdNN3N5aFlsckxIUHRORGlwUjVRQkZ3aU5WNDNreE10Y0pvWWplY09lTGNxeDJVaXNlUQ?oc=5",
+   "source": "The Indian Express",
    "region": "India",
    "published": "2026-11-18T13:02:34+00:00",
    "summary": "",
@@ -10071,11 +10254,11 @@
    ]
   },
   {
-   "id": "6d4b8f20b3140b5f",
+   "id": "f2e9fb7e547fd29a",
    "title": "$70k OPT fee could deter international students, hit US universities financially: Colleges body",
-   "url": "https://indianexpress.com/article/education/study-abroad/usa-immigration-dhs-opt-fee-hike-international-student-numbers-down-college-universities-group-oppose-increase-financial-trouble-10968148/",
-   "source": "Indian Express: Education",
-   "region": "India",
+   "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQRk51amd3Um0tRjVXdDcyY0UwaHdnUTI1RWV0bEdNNmZoRFlyVWx5WHBLcGh4ZDFfenBURWlfRTJ2d1Z4OThBY2Y4c0lWLTBTWGowSE5vTTBpekRzZ3h3WFA2TGg2eTJ6SDFWV0dvbTZLeVN3ZHBRNm5LUWhwZS10LURhcGZoZE1oblhtSXpwWlpjSWpKR0VocUEyeDRoMWIxMFNmclhvcVl2RUd5aG1Kb2FsSVhGYmxaOVl5WHN5ZUpKS0ZzamdyNkZIdW02MDVwaUxveFdfWjh5NkEwaVI0WnlXdThqYWh3U01vaEVyMlBsMWUtNFBBQ00wS1ZxSFRod01odkFENHlSdUlTSGhuekt5eWhJV1VfR09Yb0tXUGjSAacCQVVfeXFMTi13dkRTMnk0SVJjdDE1REpCZE1zYVRNbTZVM2d0MmhOckhKal9yTFVLdDk5MVQtaF9lQkRITnRKYVc3ZHBhcFhfNWRjMzAxWXZHZi1HR2ljMXByUWR3UU1KZlhfWG5peFBlVWFjUVRNcHFET1dRSWd6SkZJVlBmRjF6MHJhS0hSTm9uV3BrR1FtMGR1M0hlWWI3bUluRzd0NWhVTnkxcl96UGxfTC1xdXNDalZwRzB3Q3paeW5YSEZDZlFaU01LSEo1cHpWc0pJY3dFRm9aajYxY21pVEZiMDg3VDYwVzNmZmRrU21GeTd0STlUUjVxT19yenluekx6M2pDRFhVX1BxX0NLS3dQcU9ua2JTNk5HZEFsbUtEc3VMUnB6TzFWUQ?oc=5",
+   "source": "The Indian Express",
+   "region": "Global",
    "published": "2026-11-18T11:25:07+00:00",
    "summary": "",
    "topics": [
@@ -10570,6 +10753,18 @@
    ]
   },
   {
+   "id": "c0aaaf73f85a9a82",
+   "title": "Buck Press renovates KNUST Publishing Department to boost teaching and learning",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5BcTRxYlpzZ3luX1pWTk9NbzVTYUFoY2E5N1ZTaUw1bV8tVzBmbDBJYUkzX3pLUlhCbmRzbXFzRWxHaHV6YzdvRUJJU0h6MDZyTVJKLUlkQS1jRHJyc3hQQVJpMWTSAVxBVV95cUxQd214dFRxUnBxMVNtRHpEbE9fYW5nTDRlaFl0T2s1Yy1XeEIwSUhVYjNUaHl5UTVwNDExZWM0d2I0S3hGb2FIbzhoeTQ2NWFZZ1c3OVZRMk1HOFVrbw?oc=5",
+   "source": "Modern Ghana",
+   "region": "Global",
+   "published": "2026-11-18T09:30:00+00:00",
+   "summary": "",
+   "topics": [
+    "Pedagogy"
+   ]
+  },
+  {
    "id": "87e259730af44ccc",
    "title": "ABVP protest outside Calcutta University disrupts traffic on College Street",
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNXZDbWFrMWE4OFd2aEZXRmpjM2VsSl9Id21tbHJ3UVJuUkxPMl84Q3ZJN0QzdHAxekZMaWE1ZF9Mb0xaOFdFckdzVUVua1E1eWpHMmpHOFM5M1g1Z0FCLVJuOFlieTNWQzRmQjBxTjJGdTFBQ3dkeThUVXUwUENLc3AyQy1WeThKUWk3RkxIRTRWdmpxSHZlV2FFX0ZfZjE1MHZGai130gGrAUFVX3lxTE44MWdPNUpRRUQ0SXR6Y0pvUGRVajBsa0hhMng0WlBqZ0lNU1B0ZkZrREFWUUJQUzRNbGhpWXNkczA4X200SGdlRGhPdDRORGx5Ql9fYWpuSHhxMFhqVmN5cjdhOFdTeU1valVIMV9LQ1VETUxiM1VNTlh0VXJfWXVQV0huU2xiSVNtRnNLZzU2b0VVNFhjMFZ2UjNUcjZCSW9TTjIyX1pnRTBvUQ?oc=5",
@@ -10742,30 +10937,6 @@
    ]
   },
   {
-   "id": "b36aa98a999a398c",
-   "title": "Tackling the employer demand vs student interest dilemma",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcDBjTGszTGVvMHpyd0RuWGlZcHZKYjlrSXc4RkJmbE1mMWhoRVFYYzhuOVVuTkJBVkNwbmFkRjlnMTY0T2RaUW40TGwzaU5lbFdCOWl1SW1JLW5Bc0J4dFc2ZUlTYUxxdDZ1SzJBZnFlejhEUVMycEVjVWRuRTlyZA?oc=5",
-   "source": "University World News",
-   "region": "Global",
-   "published": "2026-11-18T08:00:00+00:00",
-   "summary": "",
-   "topics": [
-    "General"
-   ]
-  },
-  {
-   "id": "2efa5009c744b1c6",
-   "title": "SSC Time Table 2027 Maharashtra Board Out - MSBSHSE 10th Exam Dates PDF",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB1bE95aDVTLW9SQkxaaVR0NElSLWNTMUwtZEx6ZHByZUlYUTVleFdWTU02c1VJbEd2M1o5YjdacWNXQU1DTU96bkJwUV8yZUk4MmNmaXQtZFE5Q0s0S2RFR0RwS0tLbk1MaG1CTEUxNmtHbFBGM1gxbHVCYw?oc=5",
-   "source": "Careers360",
-   "region": "India",
-   "published": "2026-11-18T08:00:00+00:00",
-   "summary": "",
-   "topics": [
-    "General"
-   ]
-  },
-  {
    "id": "68ab566e7f2efc6b",
    "title": "NMMS Result 2027 (State-wise); Date & Link for Class 8th Scholarship Exam Results",
    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE45Z2RzQ0xHMUJWLUItMTJaWS04RWN2ekJIRTh0Ni1jVFVWV0JvQV9tMHhZZHlOekx4aHJmTDVzS3JuVUFsYUNzQ1ZpWkxfZ0pHUzB6OEpxSUhiTWdVU0NJ?oc=5",
@@ -10832,6 +11003,46 @@
    ]
   },
   {
+   "id": "23b3d4eaf5aa5365",
+   "title": "JEE Mains Question Paper (2026-2019) with Answer Keys and Solutions: Free PDF Download",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0zdG9VNUJmUzQwLTNVMnJuTXVXOHNQeWdHeFlyRU5rNkprR1VBRHBXYXN6ZG5mRlBQSTY5VGtySnQwVVFZbDN3ekw2MXoxcUNaYlFGQXh1LTZBRlpmMHUtdEdOTTJ4LU55NjVJODlBN3BmQUk?oc=5",
+   "source": "Shiksha.com",
+   "region": "India",
+   "published": "2026-11-18T08:00:00+00:00",
+   "summary": "",
+   "topics": [
+    "Programmes"
+   ]
+  },
+  {
+   "id": "0ad9cbedac173d86",
+   "title": "Brunel University of London: Rankings, Fees, Courses, Admission 2027, Requirements & Scholarships",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA1dnNuRy1RamJJX0pyMmtHVGNSd1FRZ3AtbTM0RXRCZFRzTmV5NkdWRVkxUGR2UzRWcDY4Y3ZJTElDVWRuR3dkLVhPWUNmQjMxclBZQ2tfTUtvV3VFSngzbG9XOGZ5aUtHa0RyMjFtbjNyQ21jZjJPRw?oc=5",
+   "source": "Shiksha.com",
+   "region": "India",
+   "published": "2026-11-18T08:00:00+00:00",
+   "summary": "",
+   "topics": [
+    "Rankings",
+    "Programmes",
+    "Pricing & funding"
+   ]
+  },
+  {
+   "id": "002543ea7e77ebb7",
+   "title": "NIT Kurukshetra: Cutoff, Courses, Fees, Placement, Admission, Ranking, Reviews",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQnBRT2NLQUQwZHowd2doeXpSS2k1X2xoODR1Z1FqNTYwM2JvQXdkcXd3cVF0MWhNeVJiXzl2TUg0eHhhSkdreV9ZWXdhVjJtcEtpRXFyMWF4Qy1ZTjNoUWNPUGRNTGdOQVd5Nk9vYlAtdjBLRk1oOWkwZk52R3hSSjg5ZGZsOUtjd0d4dW1xdw?oc=5",
+   "source": "Shiksha.com",
+   "region": "India",
+   "published": "2026-11-18T08:00:00+00:00",
+   "summary": "",
+   "topics": [
+    "Rankings",
+    "Programmes",
+    "Pricing & funding"
+   ]
+  },
+  {
    "id": "443e0d89abba752c",
    "title": "Top 10 Universities in India: Know NIRF Ranking & Course Structure",
    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNbjhZdi1KdjNaRlhhcUJDOThnMXlKU0RVbnFVMlIzb2xSVHdETTVKUng0Zkh5ZW4zM3FTTzZWdXpGcU9ULVdkUzFrQVVtUWlsRkpocDUweDFVcFh2Ty1mbWpjMkJpYkg2blFTWGxMdmxyM2U2azZHM3R2QUJXcmk0VjBFUDVLc2t3X0E?oc=5",
@@ -10883,18 +11094,6 @@
    ]
   },
   {
-   "id": "f742534b5aba625c",
-   "title": "Top Integrated BBA MBA Programmes in India After Class 12: Colleges, Eligibility & Career Scope",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNLUZibnZpZDh1X2l6ei1jendwN1BMbFlFbXJCYkZlT0lKV0RYY2hXUHpmMlQwV0w1c1plYUFRT2VZTFFvOUxiMXB4eVB4eTRJeWVnY1d3dDE3aVVBLVdpWDFmbjQwS3R3Qy0zRVF1ampjNjN3QWtUcExvY29BWjlWMzNuZ1FEakJDNGdRVQ?oc=5",
-   "source": "Shiksha.com",
-   "region": "India",
-   "published": "2026-11-18T08:00:00+00:00",
-   "summary": "",
-   "topics": [
-    "Programmes"
-   ]
-  },
-  {
    "id": "cb186ffe0e79bba5",
    "title": "Top 10 Agriculture Courses After 12th: Eligibility, Fees and Career Scope",
    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWGlpeEpUM1BBZGhvRGsxZkVDUV9EazZlZ3VvODdMaDhSX2RmZ1VDME5qTlRmUC1xeEY3elJPX2JYS3BMV1FMcWM1NlM1TE51UkROa3pOWFRzT3BpRXB4aG9RU1llaUZWNG1Rb0Y3Ry12UTB3SHpVRVdfQ0diNEUtTl8tSEUybXJvZkUw?oc=5",
@@ -10905,6 +11104,19 @@
    "topics": [
     "Programmes",
     "Pricing & funding"
+   ]
+  },
+  {
+   "id": "6feef0c188996981",
+   "title": "NEET UG 2026: MCC & State-wise Counselling (Ongoing), Special Stray Round Dates OUT, Registration & Cutoff",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE53eU9LcVcxNUVOSWhvNWRJc1hjS0NiZFBIWEx5d3BDc0NMZzlwa3M2WUFjM3ZiWkhUd2I5ZE1CQ1ZxbFlJekptSXkyWHlJbE05X2Q3TS00NUhCSGFUTGs0dWEwTktyVW9zd0E?oc=5",
+   "source": "Shiksha.com",
+   "region": "India",
+   "published": "2026-11-18T08:00:00+00:00",
+   "summary": "",
+   "topics": [
+    "Mental health",
+    "Programmes"
    ]
   },
   {
@@ -10996,41 +11208,38 @@
    ]
   },
   {
-   "id": "23b3d4eaf5aa5365",
-   "title": "JEE Mains Question Paper (2026-2019) with Answer Keys and Solutions: Free PDF Download",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0zdG9VNUJmUzQwLTNVMnJuTXVXOHNQeWdHeFlyRU5rNkprR1VBRHBXYXN6ZG5mRlBQSTY5VGtySnQwVVFZbDN3ekw2MXoxcUNaYlFGQXh1LTZBRlpmMHUtdEdOTTJ4LU55NjVJODlBN3BmQUk?oc=5",
-   "source": "Shiksha.com",
-   "region": "India",
+   "id": "b36aa98a999a398c",
+   "title": "Tackling the employer demand vs student interest dilemma",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcDBjTGszTGVvMHpyd0RuWGlZcHZKYjlrSXc4RkJmbE1mMWhoRVFYYzhuOVVuTkJBVkNwbmFkRjlnMTY0T2RaUW40TGwzaU5lbFdCOWl1SW1JLW5Bc0J4dFc2ZUlTYUxxdDZ1SzJBZnFlejhEUVMycEVjVWRuRTlyZA?oc=5",
+   "source": "University World News",
+   "region": "Global",
    "published": "2026-11-18T08:00:00+00:00",
    "summary": "",
    "topics": [
-    "Programmes"
+    "General"
    ]
   },
   {
-   "id": "0ad9cbedac173d86",
-   "title": "Brunel University of London: Rankings, Fees, Courses, Admission 2027, Requirements & Scholarships",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA1dnNuRy1RamJJX0pyMmtHVGNSd1FRZ3AtbTM0RXRCZFRzTmV5NkdWRVkxUGR2UzRWcDY4Y3ZJTElDVWRuR3dkLVhPWUNmQjMxclBZQ2tfTUtvV3VFSngzbG9XOGZ5aUtHa0RyMjFtbjNyQ21jZjJPRw?oc=5",
-   "source": "Shiksha.com",
+   "id": "2efa5009c744b1c6",
+   "title": "SSC Time Table 2027 Maharashtra Board Out - MSBSHSE 10th Exam Dates PDF",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB1bE95aDVTLW9SQkxaaVR0NElSLWNTMUwtZEx6ZHByZUlYUTVleFdWTU02c1VJbEd2M1o5YjdacWNXQU1DTU96bkJwUV8yZUk4MmNmaXQtZFE5Q0s0S2RFR0RwS0tLbk1MaG1CTEUxNmtHbFBGM1gxbHVCYw?oc=5",
+   "source": "Careers360",
    "region": "India",
    "published": "2026-11-18T08:00:00+00:00",
    "summary": "",
    "topics": [
-    "Rankings",
-    "Programmes",
-    "Pricing & funding"
+    "General"
    ]
   },
   {
-   "id": "6feef0c188996981",
-   "title": "NEET UG 2026: MCC & State-wise Counselling (Ongoing), Special Stray Round Dates OUT, Registration & Cutoff",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE53eU9LcVcxNUVOSWhvNWRJc1hjS0NiZFBIWEx5d3BDc0NMZzlwa3M2WUFjM3ZiWkhUd2I5ZE1CQ1ZxbFlJekptSXkyWHlJbE05X2Q3TS00NUhCSGFUTGs0dWEwTktyVW9zd0E?oc=5",
+   "id": "f742534b5aba625c",
+   "title": "Top Integrated BBA MBA Programmes in India After Class 12: Colleges, Eligibility & Career Scope",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNLUZibnZpZDh1X2l6ei1jendwN1BMbFlFbXJCYkZlT0lKV0RYY2hXUHpmMlQwV0w1c1plYUFRT2VZTFFvOUxiMXB4eVB4eTRJeWVnY1d3dDE3aVVBLVdpWDFmbjQwS3R3Qy0zRVF1ampjNjN3QWtUcExvY29BWjlWMzNuZ1FEakJDNGdRVQ?oc=5",
    "source": "Shiksha.com",
    "region": "India",
    "published": "2026-11-18T08:00:00+00:00",
    "summary": "",
    "topics": [
-    "Mental health",
     "Programmes"
    ]
   },
@@ -11044,20 +11253,6 @@
    "summary": "",
    "topics": [
     "Innovation & edtech"
-   ]
-  },
-  {
-   "id": "002543ea7e77ebb7",
-   "title": "NIT Kurukshetra: Cutoff, Courses, Fees, Placement, Admission, Ranking, Reviews",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQnBRT2NLQUQwZHowd2doeXpSS2k1X2xoODR1Z1FqNTYwM2JvQXdkcXd3cVF0MWhNeVJiXzl2TUg0eHhhSkdreV9ZWXdhVjJtcEtpRXFyMWF4Qy1ZTjNoUWNPUGRNTGdOQVd5Nk9vYlAtdjBLRk1oOWkwZk52R3hSSjg5ZGZsOUtjd0d4dW1xdw?oc=5",
-   "source": "Shiksha.com",
-   "region": "India",
-   "published": "2026-11-18T08:00:00+00:00",
-   "summary": "",
-   "topics": [
-    "Rankings",
-    "Programmes",
-    "Pricing & funding"
    ]
   },
   {
@@ -11584,10 +11779,10 @@
    ]
   },
   {
-   "id": "ec7b88e36e925953",
+   "id": "35ffb0f5d50cbdc0",
    "title": "NEET PG 2026 round 2 seat allotment on hold after Madras HC order; what’s next?",
-   "url": "https://indianexpress.com/article/education/neet-pg-2026-round-2-counselling-results-delayed-admissions-on-hold-madras-high-court-stay-mcc-centac-10967839/",
-   "source": "Indian Express: Education",
+   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNTkVVY1AydWVwQTBqd0pjRUVzOW5NREtMaUw5QkxfUFl4cDQ5Wm1RSFpDUnJNV19ZMEw3b3V0djV1VGxnd2UzX1YxeHM1Yldid0htNDlkVXdmc0Z2UFFvQVNMbktzQXVrRWJaUi11d1Bha3haYWpmd3B1X1ZXZXN4RURoLXZVc25EMHRVM3RwZGVacWpSRjI2bTl6czVhSXVzLWpDZ1RWcWVSWDNPMnlRanRoUUtoZmpuOERyYXN1eW5JMTVhRjN0MUtQV19CSGV4ZnBidm9pRU04X1RlSWRFd2FWQjFNbHI3aFZz0gHyAUFVX3lxTE1ST2dieUlvY1hORmVhMXNkT3BKT1E0eGw0TUZoTDNmc2UwX3RoZnNxX0lEZ3JVWVMtWndmc2pQTEFTOVl0MWNnNXpPWGhZcjZmSlRldmhCV0dWb3dpUVh4ZzQ2aUFSVFpXRkVQTFlNZXpxekxDMEVNOFlrMndEa0Q4ZmNTMVc1c3ZjSFhhb1F0NzlpaVNkai1PZGV2NGNWNW9UVHRqYjZBMTdfaUg4R1ZGWmhRRjJad01NNFBVdDR3SUdoNF9qcXdRanl5Z2dTRW1OallwMUp2cHNjVVVCT0xwVWM5X2NHQjlCbXJkNDUtcEVB?oc=5",
+   "source": "The Indian Express",
    "region": "India",
    "published": "2026-11-18T06:03:59+00:00",
    "summary": "",
@@ -12323,6 +12518,19 @@
    "summary": "",
    "topics": [
     "Rankings"
+   ]
+  },
+  {
+   "id": "5c77e3ad31f2933c",
+   "title": "Part-Time Temporary Teacher - Pennsylvania, United States job with University of Pennsylvania | 38067564",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBWUm1Jb1dNUWhxTTRlWjNNWUlQWWFObFdwdjVpWjZfcmZqSDdlUU5ncTJXQURjR3liRFd0Qm0tcXhFMW5taGl4dUlqRm5WMlprUmRWc2RTbEtXRGVRVHNySTVlVTJPZXFhUW1Yak83aTFKa0RveWhZ?oc=5",
+   "source": "The Chronicle of Higher Education",
+   "region": "Global",
+   "published": "2026-11-17T22:31:34+00:00",
+   "summary": "",
+   "topics": [
+    "Pedagogy",
+    "Careers & placements"
    ]
   },
   {
@@ -13245,6 +13453,18 @@
    ]
   },
   {
+   "id": "400b09f632910b70",
+   "title": "What is IIT Kanpur CSE cutoff trend?",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE03dDFTbjg5ZzQ4R0g3SUdsNFJRZFZtWnpPOXJJb0dZdWtKc3ROSi0yQ0FzNWtrbDNGNS1KSUVHTVExbGpQNkdjWlJBQ3VLOEMzaENzbS1aT3JXdW1TRGRZOXo3cnFnS0VXTk00NG0zZ0JWbmhkcldzRDlOeS0?oc=5",
+   "source": "Shiksha Ask and Answer",
+   "region": "India",
+   "published": "2026-11-17T14:14:59+00:00",
+   "summary": "",
+   "topics": [
+    "General"
+   ]
+  },
+  {
    "id": "c2356d71f6e6e7b0",
    "title": "Himachal Pradesh government to refund Rs 4.27 crore application fees to candidates who applied for 80 post codes",
    "url": "https://timesofindia.indiatimes.com/education/news/himachal-pradesh-government-to-refund-rs-4-27-crore-application-fees-to-candidates-who-applied-for-80-post-codes/articleshow/135928786.cms",
@@ -14023,6 +14243,18 @@
    ]
   },
   {
+   "id": "13806d6897cd242d",
+   "title": "What is TS EAMCET 2027 exam date?",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAyYkNSZ1RLdS1UYzFYcjBpNC1CSzdMZnB3R3dlWnpVNFJhaUhuTmFacmFaRHhFaU1BeEx0MnRZbU51SnlxSkRRQzNCazdpQlVhNEczNmFTMHhEMFp2OE5ZdjFYSjV4dUJfRTdManRMSjBJSkxfTUdNRA?oc=5",
+   "source": "Shiksha Ask and Answer",
+   "region": "India",
+   "published": "2026-11-17T10:08:53+00:00",
+   "summary": "",
+   "topics": [
+    "General"
+   ]
+  },
+  {
    "id": "e76fcdf5f868b682",
    "title": "AICTE Approves ASDC's Apprenticeship Embedded Degree and Diploma Curricula in Three Automotive Disciplines",
    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNM1p6RnFzYjhGVkxOdHNONm93TEczbjJfQVRtNkN4MFhtblp1Q2dWVmgwMlhLeDNNZFhyOVllZ09YRmFQWk1BdXVPTl82MEFXT1B1Q3QtNjVZTGpSOUVGbGFXZThDUmZwam1JdC1iTFZBR0FFNkoxa3g1NmpzUmpTZVdvTDdIZmE5b1JuYjRDODNmSmpIYjJlRFhjeC1FdV9WeWZmTldGcGVlMGdEdS1IYVZrbnZ1am5nbF9HWHE5QUtlNzloRVJSX05lQnFJbEYwX3Fr?oc=5",
@@ -14337,18 +14569,6 @@
    ]
   },
   {
-   "id": "0da9fabcfa166b43",
-   "title": "Adjunct Faculty, Education - Kingwood, Texas, United States job with Lone Star College | 38068158",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1PSDRjZkZfM080d1BHejQxYThXbFNtVEhqaFFVZG9jQU5fWlpOb3ZnN1BKMGR6S19YeGMySnljX2hxTjJKVzNCanJNWk84SmVCaVZBVDEtUFhTRkpIdHhoc1RITjFHY2dUWjNvNkJfb1pUelBO?oc=5",
-   "source": "The Chronicle of Higher Education",
-   "region": "Global",
-   "published": "2026-11-17T08:00:00+00:00",
-   "summary": "",
-   "topics": [
-    "Careers & placements"
-   ]
-  },
-  {
    "id": "f5a0af77fa9ccc4d",
    "title": "NIFT Entrance Exam 2027: Application Form (OUT), Exam Dates (Jan 10), Syllabus & Preparation Tips",
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBDWE43bFR5akZHN1RZT0JUU0FZLUtZVnAzQ2dWWTRIcXV4Xy1kUmVnUU5kM0I1c2FIeDFXVXpMNnhPUEJJdmdtYm1rVlhZSi1COUpOb2IwbHoyWVJmQWc?oc=5",
@@ -14359,6 +14579,18 @@
    "topics": [
     "Pedagogy",
     "Programmes"
+   ]
+  },
+  {
+   "id": "4a8d5a1c17c838cc",
+   "title": "IIM Lucknow Ranking 2027: QS, Outlook, Business Today",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQkRuNFBiQTVMU29PVUhqWTQxLVMzNTdqVm9TNlB6c29uTEpKZWg3TXFjWXJWNVI2Q3ktcDJYRnhLWmg0OW9xVlY0UWR2cDVnT1o2NGM1MjFpT3NoUlQ3LVlYcDdWdTVGMTlfZ1Z0ZjlocmhPOUxKR2lVajRTYVZ6UjFvUFZuaVZjRXB6d094NA?oc=5",
+   "source": "Shiksha.com",
+   "region": "India",
+   "published": "2026-11-17T08:00:00+00:00",
+   "summary": "",
+   "topics": [
+    "Rankings"
    ]
   },
   {
@@ -14437,6 +14669,18 @@
    ]
   },
   {
+   "id": "9df11716a9db997b",
+   "title": "Education - Froebel, Kindergarten, Movement",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNUZIbngza3hjSVNLczN2anJqcndvWnhGNUlPby1oZGwtT3llVjZXaUgtcHVHLUdrMkp1akF3V0NCRm44bVZPZEJkbGxTelFIcWFRT2twUWJKclNvc2IxQTdHa2ZmX2pzd3hzWTM5MzJuQ29hWHFjSG1tZTQ2SVg5bmJDOG10OXM?oc=5",
+   "source": "Britannica",
+   "region": "Global",
+   "published": "2026-11-17T08:00:00+00:00",
+   "summary": "",
+   "topics": [
+    "General"
+   ]
+  },
+  {
    "id": "bf4bade8c580fc1e",
    "title": "Education - Enlightenment, Reforms, Pedagogy",
    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5hZXdmN2RMUEhMTzdUbFplTU9qRXhaTnhfbzRZemFkalQzUjlQQmVLUENrZjNaTm02US10Y25fZWczZXF6ZWRIYXFIQ1BuTmt6U2M4Rkk3M1lwNVQ3X1lzMGdla25aQUVuRXNleHRWTFlvTC0zY0VR?oc=5",
@@ -14450,18 +14694,6 @@
    ]
   },
   {
-   "id": "9df11716a9db997b",
-   "title": "Education - Froebel, Kindergarten, Movement",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNUZIbngza3hjSVNLczN2anJqcndvWnhGNUlPby1oZGwtT3llVjZXaUgtcHVHLUdrMkp1akF3V0NCRm44bVZPZEJkbGxTelFIcWFRT2twUWJKclNvc2IxQTdHa2ZmX2pzd3hzWTM5MzJuQ29hWHFjSG1tZTQ2SVg5bmJDOG10OXM?oc=5",
-   "source": "Britannica",
-   "region": "Global",
-   "published": "2026-11-17T08:00:00+00:00",
-   "summary": "",
-   "topics": [
-    "General"
-   ]
-  },
-  {
    "id": "760f1b628dc1ceb4",
    "title": "Education - Reform, Curriculum, Pedagogy",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9NT2h4NUV6Q3BVQnktRW1WZWZXdWNKdi1rTEVvckxaTWljREZaSkl0VUNuNFVrYXFBX0xVN3dRd1Rzd3R5U01DTFFLOVV0SlJFUi1CdGlaVkVBekk0Z25ES0VOdjNxNnM?oc=5",
@@ -14472,6 +14704,18 @@
    "topics": [
     "Pedagogy",
     "Policy & regulation"
+   ]
+  },
+  {
+   "id": "0da9fabcfa166b43",
+   "title": "Adjunct Faculty, Education - Kingwood, Texas, United States job with Lone Star College | 38068158",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1PSDRjZkZfM080d1BHejQxYThXbFNtVEhqaFFVZG9jQU5fWlpOb3ZnN1BKMGR6S19YeGMySnljX2hxTjJKVzNCanJNWk84SmVCaVZBVDEtUFhTRkpIdHhoc1RITjFHY2dUWjNvNkJfb1pUelBO?oc=5",
+   "source": "The Chronicle of Higher Education",
+   "region": "Global",
+   "published": "2026-11-17T08:00:00+00:00",
+   "summary": "",
+   "topics": [
+    "Careers & placements"
    ]
   },
   {
@@ -17676,6 +17920,30 @@
    ]
   },
   {
+   "id": "8541705b08957596",
+   "title": "CBSE Board Exams 2027: Date Sheet (OUT), Check Dates, Sample Papers, Syllabus",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE53UnhwWnJGdzhqMVhwWjhyQ2toYVE5a1l5cktpSE9wZXdRa0g3cFhjeXlNajhvQ0VEejNqa0tFNnhGWkNOb1ViYWNiaDV4QmE0V1lr?oc=5",
+   "source": "Shiksha.com",
+   "region": "India",
+   "published": "2026-11-16T08:00:00+00:00",
+   "summary": "",
+   "topics": [
+    "Pedagogy"
+   ]
+  },
+  {
+   "id": "60a5e314c12d602a",
+   "title": "JEE Main 2027 Exam Date (OUT): NTA JEE Session 1 & 2 Schedule Released & Notification",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOLVpMQlFSMjNfWVp0SUhpRk9TNXRxTnB6TkxTbFdlZW8wMmFoVFdkcEtpWEtpTlVzd1VHVHVScWI0dFM5TUZ1SkpvRUd2NERoNlBEWUtQbm85ODl6VVpMbnR3ZUFDV3g5QTlPUUtGNmd5LU1WZnhHbmhGQ3FuNTROWElQMU5ScDZ6R2c?oc=5",
+   "source": "Shiksha.com",
+   "region": "India",
+   "published": "2026-11-16T08:00:00+00:00",
+   "summary": "",
+   "topics": [
+    "Programmes"
+   ]
+  },
+  {
    "id": "e737ccadace54a46",
    "title": "IIT Bhubaneswar Ranking 2025: NIRF, QS, Times Higher Education, Times",
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTENmSGgyWWFBQjhxX0Z4ZFRzTE9JSjVBMXBOcG5wLTgwNHV4eF9ES2YxMGMwandaZXVodGF6VFl1Xzc2SE9FaDdVVUx3VkFyTkxKM29hTnRHdDd0VVNUeGE0Q1JPSW1JU0Z2Wi10X3B5clN5UFFzRGRNLVY0TncyNGJESU1kQWd0Z21Ld01EQUpqMnYzY2E4?oc=5",
@@ -17774,18 +18042,6 @@
    "summary": "",
    "topics": [
     "Rankings"
-   ]
-  },
-  {
-   "id": "8541705b08957596",
-   "title": "CBSE Board Exams 2027: Date Sheet (OUT), Check Dates, Sample Papers, Syllabus",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE53UnhwWnJGdzhqMVhwWjhyQ2toYVE5a1l5cktpSE9wZXdRa0g3cFhjeXlNajhvQ0VEejNqa0tFNnhGWkNOb1ViYWNiaDV4QmE0V1lr?oc=5",
-   "source": "Shiksha.com",
-   "region": "India",
-   "published": "2026-11-16T08:00:00+00:00",
-   "summary": "",
-   "topics": [
-    "Pedagogy"
    ]
   },
   {
@@ -18860,18 +19116,6 @@
    ]
   },
   {
-   "id": "55bc733d75b8f60f",
-   "title": "Academics’ public voice ‘silenced by culture of fear’",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPa1Z4VHNHS3ozbndVTVp4eE1SZzMxOGprVmJsQXljV0ZjbGdwSXRjaGMwVEpZTjBoQ01NNGh0dmhrcVR3ZE5vaVZlOVhxU2NJX040QUNPR2tQZnBVeWtPLXNfaVRuQkNLZ1N0QW5yaFVBQm5PX3h2OXFLNHZCdUxpbmdWNGozVHdfcHl2OUlTRQ?oc=5",
-   "source": "Times Higher Education",
-   "region": "Global",
-   "published": "2026-11-16T00:12:56+00:00",
-   "summary": "",
-   "topics": [
-    "General"
-   ]
-  },
-  {
    "id": "7761f715b275b6ca",
    "title": "‘I can speak to students 24-hours-a-day’: the rise of AI avatars",
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNN1F1WmQzc2dRNmV4UHJuR29lYWsyXzEtSEpVbElmUkY3dmVzTTBXdEdTaHotbS1MVktEZmJrRE02dV9kNl9qak44eVZKTmpIQldxOU9fMjNaSnEwRWFqZ09Sa2FyY05UTXJTZ2lVakZBR280Nmtucy1NNkM3ZkFSVjU4RmozNktuaEsyd0RGSEw0SlByQnc?oc=5",
@@ -18887,6 +19131,18 @@
    "id": "3f289c6fa5a486e1",
    "title": "Students face ‘conflict of interest’ in TEF submissions",
    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSjJ1Q2hoQTJqRUNRQzJBQlMwaWZNdjBmRE1DOEFVMU5IU1k1RDUtQXd0NzdCWWNxc2haWTJsSzhqWmFTdVEyeDZQc0RFM0FuelZtNFRORDFJblpXTHFObUN0aFBEcEpZbWFuc3cxZlNlN2JObi16aFZOQW1Dc0RkSEJ5MDYwQUdGOWZSY1JUOTRvUFU?oc=5",
+   "source": "Times Higher Education",
+   "region": "Global",
+   "published": "2026-11-16T00:12:56+00:00",
+   "summary": "",
+   "topics": [
+    "General"
+   ]
+  },
+  {
+   "id": "55bc733d75b8f60f",
+   "title": "Academics’ public voice ‘silenced by culture of fear’",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPa1Z4VHNHS3ozbndVTVp4eE1SZzMxOGprVmJsQXljV0ZjbGdwSXRjaGMwVEpZTjBoQ01NNGh0dmhrcVR3ZE5vaVZlOVhxU2NJX040QUNPR2tQZnBVeWtPLXNfaVRuQkNLZ1N0QW5yaFVBQm5PX3h2OXFLNHZCdUxpbmdWNGozVHdfcHl2OUlTRQ?oc=5",
    "source": "Times Higher Education",
    "region": "Global",
    "published": "2026-11-16T00:12:56+00:00",
@@ -18965,18 +19221,6 @@
    "summary": "",
    "topics": [
     "Study abroad"
-   ]
-  },
-  {
-   "id": "60a5e314c12d602a",
-   "title": "JEE Main 2027 Exam Date (OUT): NTA JEE Session 1 & 2 Schedule Released & Notification",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOLVpMQlFSMjNfWVp0SUhpRk9TNXRxTnB6TkxTbFdlZW8wMmFoVFdkcEtpWEtpTlVzd1VHVHVScWI0dFM5TUZ1SkpvRUd2NERoNlBEWUtQbm85ODl6VVpMbnR3ZUFDV3g5QTlPUUtGNmd5LU1WZnhHbmhGQ3FuNTROWElQMU5ScDZ6R2c?oc=5",
-   "source": "Shiksha.com",
-   "region": "India",
-   "published": "2026-11-15T21:59:29+00:00",
-   "summary": "",
-   "topics": [
-    "Programmes"
    ]
   },
   {
@@ -19567,6 +19811,30 @@
    ]
   },
   {
+   "id": "f4b27de347e10bfd",
+   "title": "GSEB SSC Time Table 2027: Download Gujarat Board Class 10 Exam Time Table 2027 PDF",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9KLXg2dXdabGNGMEtrWmVNblh1clc1ejIxaHpJNmZaQkRFaXNEdzRNRF9icXhIYzBkdHF5aTB6Z1JGaXAtNzNXclRYbzc3VWo3RGFFd1ByTFNHbVZRTGZ4dExxaGp4dw?oc=5",
+   "source": "Shiksha.com",
+   "region": "India",
+   "published": "2026-11-15T08:00:00+00:00",
+   "summary": "",
+   "topics": [
+    "General"
+   ]
+  },
+  {
+   "id": "d96815852431c1f8",
+   "title": "GATE 2027: Form Scrutiny Process (Ongoing), Branch-Wise Exam Dates (Soon)",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE41NEpBRFZ1UlpSQS1HRm94WWRRR0FKRzZ4bFFXMlJ1U1FOMEJEY2d5UXB5VF84OWVubXFDOVpGN1VUUUxhVndlWW1FcEdobFBQN0VFdHQyaGE?oc=5",
+   "source": "Shiksha.com",
+   "region": "India",
+   "published": "2026-11-15T08:00:00+00:00",
+   "summary": "",
+   "topics": [
+    "General"
+   ]
+  },
+  {
    "id": "5e841e85e237f75a",
    "title": "Online MBA Courses in India: Check Eligibility, Fees, and Admission Process of Top 16 Colleges",
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOc2QzaTZidXMwOGxJRkN3TWRoZEpScUF0bGw0UDJhVld3ZTVEUmYxQzFkOC1Nc244UnZqWmR5VDc5YjR2cV9ORzVwbkF3Q1ZVa2Zqc09Ed3pNLUlGX2YwMGFFbnVDTC10UlQwbndnWDRlcms3NTA2REp6TlNPWWctMGR5eHBWeGRERFdGZ0g5RHFVV3JOcDRvMEdKS1pmeFJGNjAxMWFqa3RLYUtmc200UmtTX2d0QzBkMW85dnZvQ28?oc=5",
@@ -19601,18 +19869,6 @@
    "summary": "",
    "topics": [
     "Policy & regulation"
-   ]
-  },
-  {
-   "id": "d96815852431c1f8",
-   "title": "GATE 2027: Form Scrutiny Process (Ongoing), Branch-Wise Exam Dates (Soon)",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE41NEpBRFZ1UlpSQS1HRm94WWRRR0FKRzZ4bFFXMlJ1U1FOMEJEY2d5UXB5VF84OWVubXFDOVpGN1VUUUxhVndlWW1FcEdobFBQN0VFdHQyaGE?oc=5",
-   "source": "Shiksha.com",
-   "region": "India",
-   "published": "2026-11-15T08:00:00+00:00",
-   "summary": "",
-   "topics": [
-    "General"
    ]
   },
   {
@@ -20625,6 +20881,18 @@
    ]
   },
   {
+   "id": "6f6546dde99ca5f9",
+   "title": "Federation University staff take industrial action over pay",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1pTmtJVEJra0pZS1lRcXZiTFlJWHFOd3BIckczaG5TMzR6SzUtNFpkMTliTjZ1eFJCZlVNVGRlYnR4UWNvc1YxVVc4QzJhNTVVU3FoYUVobmN5cWJLeVJiRU5rTWNUeXVLUE9iWG1zU3lZMXZDbTd3?oc=5",
+   "source": "University World News",
+   "region": "Global",
+   "published": "2026-11-14T08:40:08+00:00",
+   "summary": "",
+   "topics": [
+    "General"
+   ]
+  },
+  {
    "id": "6ab989fcc25980fd",
    "title": "Dual appointments for overseas professors in advanced tech",
    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9rU3A5TndkdG51WEhCT0s0UGI3bW51TWxGSzR6Nk9ZMTVrQl8zd0x1Q1dRYVJYMXZjWWFvRXpSNGZ3YlNPeUplYjJ5Y1FjbFZuYlRwa1k3T3dPYzJGNlExNmZzajBoYmJ1QndiVUlhWFNtelpZei1v?oc=5",
@@ -20646,18 +20914,6 @@
    "summary": "",
    "topics": [
     "Rankings"
-   ]
-  },
-  {
-   "id": "6f6546dde99ca5f9",
-   "title": "Federation University staff take industrial action over pay",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1pTmtJVEJra0pZS1lRcXZiTFlJWHFOd3BIckczaG5TMzR6SzUtNFpkMTliTjZ1eFJCZlVNVGRlYnR4UWNvc1YxVVc4QzJhNTVVU3FoYUVobmN5cWJLeVJiRU5rTWNUeXVLUE9iWG1zU3lZMXZDbTd3?oc=5",
-   "source": "University World News",
-   "region": "Global",
-   "published": "2026-11-14T08:40:08+00:00",
-   "summary": "",
-   "topics": [
-    "General"
    ]
   },
   {
@@ -20842,18 +21098,6 @@
    "summary": "",
    "topics": [
     "Pedagogy"
-   ]
-  },
-  {
-   "id": "9d28f056af382151",
-   "title": "JEE Main Cutoff 2026 (Out): Percentile, Category-wise Qualifying Marks & Previous Year Trends",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBOVm9UaHdkSTJKMkJEaDllUnllb3owZ0JuWGVrekZ4QVlmYXY5ZmpkNTNRcnFqdnYtWU0wdVFfbFBmTVppbTVlQkEwcmhRX3FYMzdkYnV6MUFVSExHRmh6T0g5bVpoUWxrcU5j?oc=5",
-   "source": "Careers360",
-   "region": "India",
-   "published": "2026-11-14T08:00:00+00:00",
-   "summary": "",
-   "topics": [
-    "Programmes"
    ]
   },
   {
@@ -23295,6 +23539,18 @@
    ]
   },
   {
+   "id": "8d7ab84ea571779f",
+   "title": "Minister says digital divide deepens inequality in colleges",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBKMVdYYm5hV1FaVVFMdDVVaWhTdE5jV2xIVGFMaEJQUFdCMzlYckVKMU9BaUpOdXpGVVQwUUxMTEdBSTR2WVF3UWpGMnBUWUIyT0pJcVJjcDNoY2hpSXBtdHRmcXNXWm5nX0JVRTlYcnZRX3lZaHc?oc=5",
+   "source": "University World News",
+   "region": "Global",
+   "published": "2026-11-13T08:51:33+00:00",
+   "summary": "",
+   "topics": [
+    "Innovation & edtech"
+   ]
+  },
+  {
    "id": "7e07da79bbbe651a",
    "title": "Universities to expand cooperation through joint AI degree",
    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9ULWNuaWhtSjFicXJfZ2JGZW55MF9nd044YjZVMDNpelJLV1VSai1vWlgzZGQ2SzBCd0Y1NFNKT3NucnVneU5Ga1IzZEM2SWJWWGo1SER2eVhOQkdkekFiLVlXRlRBend0M1hnTFAwUEFxbjFWbk53?oc=5",
@@ -23311,18 +23567,6 @@
    "id": "eb79a6f6f60f1280",
    "title": "Cuba highlights scope of the new science and technology law",
    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9YWGI2NDdPUXRDcG9qM3F0VkZfd2hVR3Y2Y2pORVQ1T2EydGdDeUdRSFZwVl9sYzVLRFNKakZHNWJCdG5vbTVUbHVuVTh1emQ5aXVlNFdJTGU2Vm5nZTBKUGJ2SmpzZjJnMl94QkxWNTkxdmZrQWpJ?oc=5",
-   "source": "University World News",
-   "region": "Global",
-   "published": "2026-11-13T08:51:33+00:00",
-   "summary": "",
-   "topics": [
-    "Innovation & edtech"
-   ]
-  },
-  {
-   "id": "8d7ab84ea571779f",
-   "title": "Minister says digital divide deepens inequality in colleges",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBKMVdYYm5hV1FaVVFMdDVVaWhTdE5jV2xIVGFMaEJQUFdCMzlYckVKMU9BaUpOdXpGVVQwUUxMTEdBSTR2WVF3UWpGMnBUWUIyT0pJcVJjcDNoY2hpSXBtdHRmcXNXWm5nX0JVRTlYcnZRX3lZaHc?oc=5",
    "source": "University World News",
    "region": "Global",
    "published": "2026-11-13T08:51:33+00:00",
@@ -24262,250 +24506,6 @@
    "summary": "",
    "topics": [
     "Rankings"
-   ]
-  },
-  {
-   "id": "c802d7fccf3390df",
-   "title": "NIRF Engineering Ranking 2026: Top 100 Colleges in India",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOV0ZUSV90UXVQaXpGV0liN3lDUy1TWS1UR3BvUWJYb01NMFhkTzNnQ1FjVjRVU3lZOU5PUGI0T0xjUmdRRmJlek1ET2lkN2liM2IwTDJUeUZSbEFvRFJtbzhRbDB0UUM1cld1QUdEVXlBQ3RVVGNGRGZyakhONzJYSThvUy1WT2VFY2Mxa3RMS29NTmwzdlNwVTVhazg4Wk45UXBiblZjT2dnTTBqVHFQQnU1ek4?oc=5",
-   "source": "Shiksha.com",
-   "region": "India",
-   "published": "2026-11-13T05:10:35+00:00",
-   "summary": "",
-   "topics": [
-    "Rankings"
-   ]
-  },
-  {
-   "id": "1ddc028d69c69a60",
-   "title": "RRB ALP CBT 1 Answer Key 2026 released, raise objection till November 19 at rrb.indianrailways.gov.in",
-   "url": "https://www.hindustantimes.com/education/competitive-exams/rrb-alp-cbt-1-answer-key-2026-released-raise-objection-till-november-19-at-rrbindianrailwaysgovin-101794545165062.html",
-   "source": "Hindustan Times: Education",
-   "region": "India",
-   "published": "2026-11-13T04:50:15+00:00",
-   "summary": "RRB ALP CBT 1 Answer Key 2026 has been released. The objection window will close on November 19, 2026. The direct link to raise objection is given here.",
-   "topics": [
-    "General"
-   ]
-  },
-  {
-   "id": "66334942663a2150",
-   "title": "Singapore charges fifth person in AI server fraud case",
-   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/singapore-charges-fifth-person-in-ai-server-fraud-case/articleshow/135789435.cms",
-   "source": "ET Education",
-   "region": "India",
-   "published": "2026-11-13T04:39:37+00:00",
-   "summary": "Singapore has charged a fifth person in a case involving the alleged false representation of the end users of AI servers purchased from Dell, Super Micro Computer and Asustek Computer.",
-   "topics": [
-    "Innovation & edtech"
-   ]
-  },
-  {
-   "id": "e982cdf0336d0920",
-   "title": "Recruitment of UP basic education teachers: Allahabad HC issues notice to secretary on contempt petition",
-   "url": "https://www.hindustantimes.com/education/news/recruitment-of-up-basic-education-teachers-allahabad-hc-issues-notice-to-secretary-on-contempt-petition-101794543405449.html",
-   "source": "Hindustan Times: Education",
-   "region": "India",
-   "published": "2026-11-13T04:30:06+00:00",
-   "summary": "Justice Piyush Agrawal directed Surendra Tiwari to produce some favourable order or appear in person on December 1, the next date of hearing.",
-   "topics": [
-    "Pedagogy",
-    "Careers & placements"
-   ]
-  },
-  {
-   "id": "d9a0b0b4f0bab899",
-   "title": "Can students track the secret lives of butterflies and lizards? Georgia Tech is using tiny sensors weighing just 0.03 grams to turn its campus into a living laboratory",
-   "url": "https://timesofindia.indiatimes.com/education/news/can-students-track-the-secret-lives-of-butterflies-and-lizards-georgia-tech-is-using-tiny-sensors-weighing-just-0-03-grams-to-turn-its-campus-into-a-living-laboratory/articleshow/135789046.cms",
-   "source": "Times of India: Education",
-   "region": "India",
-   "published": "2026-11-13T04:21:38+00:00",
-   "summary": "Georgia Tech is turning its campus into a living laboratory where students will track lizards, birds and butterflies using miniature wireless sensors. One device weighs just 0.03 grams, making it small enough to attach to a lizard. The initiative, led by biology professors Benjamin Freeman and...",
-   "topics": [
-    "Research"
-   ]
-  },
-  {
-   "id": "98345ef65477dcc0",
-   "title": "Odisha CM launches robotic labs in 807 schools",
-   "url": "https://www.hindustantimes.com/education/news/odisha-cm-launches-robotic-labs-in-807-schools-101794543121254.html",
-   "source": "Hindustan Times: Education",
-   "region": "India",
-   "published": "2026-11-13T04:15:29+00:00",
-   "summary": "The initiative will enable students in classes 6 to 10 to receive practical training in robotics, coding, AI, machine learning and 3D printing.",
-   "topics": [
-    "General"
-   ]
-  },
-  {
-   "id": "b486968fb0c0c62d",
-   "title": "CityUHK achieves a historic 4th place ranking in the QS Asia University Rankings 2027.",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWTJJSGN5cldlcXdxOV9ycF9VR3V1Wl9aUG11ZjFoWHlBN3EzVDJ0MkRvb3c5dzB4c2FZRHNOd0VQRi1oS3V4OVFObVF0b093UWlVS05mOFk0LTdpRGNYdGJnVzAtZVNLckg5SXlxWTFVekNXSlktZUYyT2pLeUtqWXFwbXM2bGl4TjFIU2p0RkFaZW9pajJ1a0ZkRjU5S1R1emd3?oc=5",
-   "source": "Vietnam.vn",
-   "region": "Global",
-   "published": "2026-11-13T04:14:22+00:00",
-   "summary": "",
-   "topics": [
-    "Rankings"
-   ]
-  },
-  {
-   "id": "487cb9b81cb3e412",
-   "title": "IIT Kharagpur To Launch NMC-Approved Medical PG Courses, First Among IITs",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTVItZDBvWnBhd25HaEpZVGxkblFJdjJyLVMtWVp0ckYxb25INHQwQ0xqOTdPUWc1cGRZZmQyekQtT0tIaEE3M1dwRlRPa1dpcHVTWTJtMEk4djc4ZVhvaU5weEtaUklWLWJnWFhEWk1XOVBDTkJhY2paMkRiMzAxUnBVaVdCVUxLd2FvMlhybTFoclhYNUdYRkVOZkNsbFd6bVMxYmFnbWQ5c3NVa2NlSXpldXhydw?oc=5",
-   "source": "BW Education",
-   "region": "India",
-   "published": "2026-11-13T04:12:36+00:00",
-   "summary": "",
-   "topics": [
-    "Programmes"
-   ]
-  },
-  {
-   "id": "ac423285efa1e34a",
-   "title": "Google rolls out Gemini 4 Hydrogen with 2.5x speed boost, four reasoning levels",
-   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/google-rolls-out-gemini-4-hydrogen-with-2-5x-speed-boost-four-reasoning-levels/articleshow/135789016.cms",
-   "source": "ET Education",
-   "region": "India",
-   "published": "2026-11-13T04:10:52+00:00",
-   "summary": "Google has rolled out Gemini 4 Hydrogen, a new artificial intelligence model that completes tasks 2.5 times faster than its predecessor, Gemini 3.8 Flash, as the company looks to improve the speed and efficiency of everyday AI tasks, coding and agentic workflows.",
-   "topics": [
-    "Innovation & edtech"
-   ]
-  },
-  {
-   "id": "4244d8e7c6729bed",
-   "title": "Nvidia PE falls to 14-year low, but CEO exit and AI worries cloud the bargain",
-   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/nvidia-pe-falls-to-14-year-low-but-ceo-exit-and-ai-worries-cloud-the-bargain/articleshow/135788986.cms",
-   "source": "ET Education",
-   "region": "India",
-   "published": "2026-11-13T04:10:17+00:00",
-   "summary": "By one of Wall Street's favorite metrics, Nvidia shares look like a bargain. Following a steep drop from its October 6 record high, Nvidia's stock is trading at the equivalent of 12 times expected earnings.",
-   "topics": [
-    "Innovation & edtech"
-   ]
-  },
-  {
-   "id": "6831f1463bf4b8b5",
-   "title": "NSUI stages protest against hazardous air pollution in Delhi, demands immediate action",
-   "url": "https://timesofindia.indiatimes.com/education/news/nsui-stages-protest-against-hazardous-air-pollution-in-delhi-demands-immediate-action/articleshow/135788758.cms",
-   "source": "Times of India: Education",
-   "region": "India",
-   "published": "2026-11-13T03:56:50+00:00",
-   "summary": "NSUI held a protest in Delhi against air pollution and called for government intervention to protect public health. Led by Vinod Jakhar, students raised concerns about the severe impacts on residents, particularly vulnerable groups. Protesters demanded concrete actions and accountability from...",
-   "topics": [
-    "General"
-   ]
-  },
-  {
-   "id": "40ae49a86c0b06b2",
-   "title": "CAT 2026 candidates will undergo an AI-based facial recognition check",
-   "url": "https://indianexpress.com/article/education/cat-2026-candidates-will-undergo-an-ai-based-facial-recognition-check-10961184/",
-   "source": "Indian Express: Education",
-   "region": "India",
-   "published": "2026-11-13T03:56:11+00:00",
-   "summary": "",
-   "topics": [
-    "Innovation & edtech"
-   ]
-  },
-  {
-   "id": "4b9e004f7db82fbb",
-   "title": "CA Final May 2027 Exam Date: Check Tentative Time Table",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBpM0Yza3dSM2diTWFWbEJJRFlaVDhFYVdIQU1MVVp6VU82bnJlQkJyNkZ5WlRYZ3J0MFFwNGxSX29SUFBYV1B4S3YzTWc3T09ERFVZSFVEY1dPcEhpX3pTRU1XYkUzYVlsbVJfV1prZEtNSW9zYlVkUkJFV3Q?oc=5",
-   "source": "Careers360",
-   "region": "India",
-   "published": "2026-11-13T03:45:00+00:00",
-   "summary": "",
-   "topics": [
-    "General"
-   ]
-  },
-  {
-   "id": "e29f5feae9ffe8a6",
-   "title": "Omar Abdullah calls for exam reforms in J-K; stresses foolproof, merit-based system",
-   "url": "https://timesofindia.indiatimes.com/education/news/omar-abdullah-calls-for-exam-reforms-in-j-k-stresses-foolproof-merit-based-system/articleshow/135788162.cms",
-   "source": "Times of India: Education",
-   "region": "India",
-   "published": "2026-11-13T03:39:15+00:00",
-   "summary": "Omar Abdullah emphasized the need for reforms in the examination system during a meeting with the High-Powered Task Force. He stressed the importance of making assessments secure, transparent, and technology-driven to protect students' futures. Abdullah suggested integrating school board...",
-   "topics": [
-    "Pedagogy",
-    "Mental health",
-    "Policy & regulation"
-   ]
-  },
-  {
-   "id": "b78b31ffaebe6d3b",
-   "title": "UP Board Exam 2027: Teachers asked to ensure syllabus completion, focus on revision and regular tests",
-   "url": "https://www.hindustantimes.com/education/board-exams/up-board-exam-2027-teachers-asked-to-ensure-syllabus-completion-focus-on-revision-and-regular-tests-101794540757655.html",
-   "source": "Hindustan Times: Education",
-   "region": "India",
-   "published": "2026-11-13T03:37:34+00:00",
-   "summary": "To support students lagging behind expected learning outcomes, the department has also introduced a 22-point Catch-Up Plan.",
-   "topics": [
-    "Pedagogy"
-   ]
-  },
-  {
-   "id": "0d8999f926c6c034",
-   "title": "\"He is going through hell\": Trump says Jensen Huang is distressed over impact of controversy on wife, family",
-   "url": "https://economictimes.indiatimes.com/tech/technology/he-is-going-through-hell-trump-says-jensen-huang-is-distressed-over-impact-of-controversy-on-wife-family/articleshow/135788018.cms",
-   "source": "ET Education",
-   "region": "India",
-   "published": "2026-11-13T03:29:05+00:00",
-   "summary": "\"I spoke to him yesterday. He's going through hell. What he feels most badly about is his wife and family. That's what he is really, that's what he told me. And in, strongest, he called me as the president. I'm president, and he called me. And he said, what I've done to my wife and family is,...",
-   "topics": [
-    "General"
-   ]
-  },
-  {
-   "id": "eb233db3778a600b",
-   "title": "Farming had not yet begun when these 15,000-year-old clay figures were made: How fingerprints in Israel reveal that children helped create them, rewriting the history of art",
-   "url": "https://timesofindia.indiatimes.com/education/news/farming-had-not-yet-begun-when-these-15000-year-old-clay-figures-were-made-how-fingerprints-in-israel-reveal-that-children-helped-create-them-rewriting-the-history-of-art/articleshow/135787488.cms",
-   "source": "Times of India: Education",
-   "region": "India",
-   "published": "2026-11-13T03:24:57+00:00",
-   "summary": "Archaeologists have discovered 154 figurative clay artefacts dating back 15,000 to 11,650 years at three prehistoric sites in Israel, challenging the belief that clay art emerged alongside farming. Published in PLOS ONE on November 11, 2026, the study also reveals fingerprints belonging to...",
-   "topics": [
-    "General"
-   ]
-  },
-  {
-   "id": "f9411fab83730279",
-   "title": "IIT Kharagpur MD Admission 2026–27: First IIT to Offer NEET-PG Seats",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORXdLOEVseFNkekt3YlVaQ0xtbWZyLU1IQ0RuSHV4N2kyMHVRMWxWNGdNbDAwT21EQk5FQUxNQ2I4RFBKcnRPTG1wODdTM2pPTTBpQXFZVGU4dTc1TVh6RnEtQjFZOHRLaVAya0RLOElNMVA0NUVlbEFhWnQza0ZxUjBidw?oc=5",
-   "source": "medadmit.in",
-   "region": "India",
-   "published": "2026-11-13T03:23:45+00:00",
-   "summary": "",
-   "topics": [
-    "Programmes"
-   ]
-  },
-  {
-   "id": "942b5c43be16e8b9",
-   "title": "Warby Parker bets on Google AI glasses for growth, but privacy fears still loom",
-   "url": "https://economictimes.indiatimes.com/tech/technology/warby-parker-bets-on-google-ai-glasses-for-growth-but-privacy-fears-still-loom/articleshow/135787453.cms",
-   "source": "ET Education",
-   "region": "India",
-   "published": "2026-11-13T03:07:02+00:00",
-   "summary": "Warby Parker is entering the smart glasses market in partnership with Google and Samsung, betting that demand for the artificial intelligence wearables will balloon in the coming years.",
-   "topics": [
-    "Innovation & edtech"
-   ]
-  },
-  {
-   "id": "1ed4563b782417d7",
-   "title": "JEE Mains 2027 Registration Link (Active) - Last Date 22 Nov, Fees",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9kUHFzZkdQM1hMSlpGOGtyMEFadkRsa2NjZ3FBQ0s3NjZ5bHRRZFRIT1lwNl9JNHBNUmt3b1Y1SzFrTndmWGhxT25kU3hvWFZNVFJjUmxYQ1dvbDVnTG9VaUJfb2tCcVVxWkhLaVAyNUQ3ZDNDTG9Cdg?oc=5",
-   "source": "Careers360",
-   "region": "India",
-   "published": "2026-11-13T03:06:00+00:00",
-   "summary": "",
-   "topics": [
-    "Programmes",
-    "Pricing & funding"
    ]
   }
  ]
